@@ -1,0 +1,3 @@
+python-3.6.10
+
+ffmpeg -stream_loop -1 -re -i /home/bigdata/Documents/test.mkv -rtsp_transport tcp -vcodec h264 -f rtsp rtsp://localhost:8554/test

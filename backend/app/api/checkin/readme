@@ -1,0 +1,15 @@
+data contains embedding vector and label
+face_detection contains code and models of mtcnn for face deteection
+feature_extraction contains and model of resnetface to extract face embedding vector
+models contains face embedding model and fv_model_34, face recognition model and label model
+test_images contains images for testing
+train contains images for train, name or id of the person is the name of folder
+
+run
+
+python3 data_generation.py to convert images to face vectors. The vectors are in data folder
+python3 train_novelty.py to the recognition models. The models are in models folder
+python3 test_show.py to test the model on the images in test_images. 
+
+
+

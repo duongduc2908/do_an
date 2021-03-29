@@ -1,0 +1,3467 @@
+[
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0342455,
+               "lng" : 105.7794199
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.03555237989272,
+                  "lng" : 105.7810337798927
+               },
+               "southwest" : {
+                  "lat" : 21.03285272010728,
+                  "lng" : 105.7783341201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "0b46bd32445f1c22058613034b524ad322226b40",
+         "name" : "Bệnh Viện Đa Khoa Y Học Cổ Truyền",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105123977035237405771\"\u003eTran Minh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcnHIEyXaZC8vVTdXsvIjTUE9si0HSftdIMNdVoQnhGWShYNveAnlvC7kkotc0GOTWz_vJdIvANJspzR8HXLJshicAdxRfk9VTAUlkHui94Yi80fZ0sDxF9wW6OAhGydREhCHtLpY1hjyBBdIEKgPrTxfGhRcHk_vWIR2k3mWSQPVYtH9HjTqcA",
+               "width" : 2880
+            }
+         ],
+         "place_id" : "ChIJLfle_LRUNDERNrxBVFaC2Cg",
+         "plus_code" : {
+            "compound_code" : "2QMH+MQ Mai Dịch, Cầu Giấy, Hà Nội",
+            "global_code" : "7PH72QMH+MQ"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJLfle_LRUNDERNrxBVFaC2Cg",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 82,
+         "vicinity" : "Số 8 đường Phạm Hùng"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0314565,
+               "lng" : 105.7741844
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.03280542989272,
+                  "lng" : 105.7755596298927
+               },
+               "southwest" : {
+                  "lat" : 21.03010577010728,
+                  "lng" : 105.7728599701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "d44692703f7a696c59b474b4b0146fcd152154de",
+         "name" : "Bệnh viện Đa khoa Chữ Thập Xanh",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112425415439482403606\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3Gotl6P7yq9NqKF0WMocssSc1Mq_uTBiy1iCKNKST9iBBbHQQtXQxR0s3AI5llodOhD5XuTQNpM0ewffMHVbdJ7r3b0dGAeCrndqKb99pLI5wE-YuNFl96bpEAU7EjDIEhBxMRETvk4ah1mWwLUuO94TGhSLOU4kygaM7mhMs-P2Mx3UX9bp2g",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJZ89oMLFUNDERXpk5zDNQMpY",
+         "plus_code" : {
+            "compound_code" : "2QJF+HM Mỹ Đình, Nam Từ Liêm, Hà Nội",
+            "global_code" : "7PH72QJF+HM"
+         },
+         "rating" : 5,
+         "reference" : "ChIJZ89oMLFUNDERXpk5zDNQMpY",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "33 Nguyễn Hoàng"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0182646,
+               "lng" : 105.855612
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.01971662989272,
+                  "lng" : 105.8569469798927
+               },
+               "southwest" : {
+                  "lat" : 21.01701697010727,
+                  "lng" : 105.8542473201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "094a9832aa77ee628905f67888b96344b94aacdd",
+         "name" : "Bệnh Viện Đa Khoa Hà Nội",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3492,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115271228943539945769\"\u003eThắng Nguyễn Duy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4zWjnyWP7BfOpquatqUiRtRhwBvjChbErVaXXP2jDivB8tL7jmsG_L9b2jVKF90hSNM-ndDfkFOl81GrId2HHSvhigbbUON8T5F9wYqVD_8JnGwNFvMG1wxL-cvwf9LvEhAqHbhmToPAeFpDWtJL3bPEGhSbXx8kPT-QqrWO4vkEurhHAXbBhg",
+               "width" : 4656
+            }
+         ],
+         "place_id" : "ChIJg_HDePKrNTERbCtSPpjTz0Y",
+         "plus_code" : {
+            "compound_code" : "2V94+86 Phạm Đình Hổ, Hai Bà Trưng, Hà Nội",
+            "global_code" : "7PH72V94+86"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJg_HDePKrNTERbCtSPpjTz0Y",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 70,
+         "vicinity" : "29 P.Hàn Thuyên"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0708546,
+               "lng" : 105.7755891
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.07255637989272,
+                  "lng" : 105.7769420798927
+               },
+               "southwest" : {
+                  "lat" : 21.06985672010728,
+                  "lng" : 105.7742424201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "d804ef0f3bed5dc10a850ce3b26eeeb3b76bd4cf",
+         "name" : "Bệnh viện Đa Khoa Phương Đông",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116931295357643370385\"\u003eNgọc Ánh Phạm\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmI5zyULfHdIekvIF0JDjQXrtg3Z3iw5uc-ZcfRnxR9VGD9TtbF_SyO2HfgMLNtQWk4XdUH9IUCAR0N82mp8y_aESCclE5-RSWaMafQBInyjG169Hi3WfIUqMRFlC4O2hEhBXLAZ0pfS9o0lrnMm9cCh1GhQ4wfy-O18IAn-KKgu91kVn8V3bag",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJPXXs0yhVNDERdodfojIB8A0",
+         "plus_code" : {
+            "compound_code" : "3QCG+86 Cổ Nhuế 2, Từ Liêm, Hà Nội",
+            "global_code" : "7PH73QCG+86"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJPXXs0yhVNDERdodfojIB8A0",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 78,
+         "vicinity" : "Số 9 Phố Viên"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0135644,
+               "lng" : 105.82094
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.01486677989272,
+                  "lng" : 105.8223488298927
+               },
+               "southwest" : {
+                  "lat" : 21.01216712010728,
+                  "lng" : 105.8196491701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "261f71c4616afcdc71b17e5bb80ca148a7afbd19",
+         "name" : "Bệnh Viện Đa Khoa Nông Nghiệp 2",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102042688479364327007\"\u003eVũ Xuân Tuyển\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASZ1nNZV9dKLy7zKMye2bfR4YsZij_U3biYy60e3DdZhuh8UEIpOhsniwtL89SiXyvKAP1oJf6bEYL4qgn1nV66nQ-7b4W01CilTnP4gnhJrFN8obQF-y7L008UPVTB1gEhCJrRF1lTLU2-_pg9mxbgMEGhRtIMbMo3SGq0LEUcFy18r7sEk_2A",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJK2jMU3yrNTERE8LbhSjsAvA",
+         "plus_code" : {
+            "compound_code" : "2R7C+C9 Trung Liệt, Đống Đa, Hà Nội",
+            "global_code" : "7PH72R7C+C9"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJK2jMU3yrNTERE8LbhSjsAvA",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "183 Phố Đặng Tiến Đông"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0451282,
+               "lng" : 105.8144674
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.04639602989272,
+                  "lng" : 105.8156654298927
+               },
+               "southwest" : {
+                  "lat" : 21.04369637010728,
+                  "lng" : 105.8129657701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "4ab00e2f7f0ff859eebb4e1c1010acd6ec786822",
+         "name" : "Bệnh Viện Đa Khoa Quốc Tế Thu Cúc",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 580,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103683730884388082967\"\u003ehoang tran huu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtOtgfRF9AMN9qlIikRrowg6GqhlsYpN28Ppj2-tC8Y6YXrnVXOGxLeOgA7fouP9Z5xg9tm_0zIN-kvxz83HsEJoWNg5geJO4MEW2Xcxp5Aufw0fmu66ZCFm3PBcUTChdEhCG567anerNdXKVzUvCU-vhGhQ61R60LrBtO8XwQs-kwUMALOiRgw",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJv64UYxCrNTER9HBkU3aXDIU",
+         "plus_code" : {
+            "compound_code" : "2RW7+3Q Bưởi, Tây Hồ, Hà Nội",
+            "global_code" : "7PH72RW7+3Q"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJv64UYxCrNTER9HBkU3aXDIU",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 410,
+         "vicinity" : "286 Thụy Khuê"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0256892,
+               "lng" : 105.8353267
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.02698067989272,
+                  "lng" : 105.8365513798927
+               },
+               "southwest" : {
+                  "lat" : 21.02428102010727,
+                  "lng" : 105.8338517201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "296cf96f2d2a3ad459a620f55b26b3303f2735f8",
+         "name" : "Bệnh viện đa khoa tư nhân Tràng An",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 797,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114633608552328388158\"\u003eThang Ng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJgLoQVs9ePrFK1xf_rsVQGT0rkmbIhF133ErcvqsCDJr_rjvrRM_U6iYBm5d-F9Gk5hlvFsVFbBsphzwtHmCNCbDKirw1A_v0M84Pvlqf81YmWHD634LpJv_2TRONN5qEhBEBm_NxbuRt_H1zdeukgiTGhSN8xT0GyAw96XASvYSYQPRvBQVQg",
+               "width" : 641
+            }
+         ],
+         "place_id" : "ChIJ0X7pA5yrNTERLG_6w33ulqY",
+         "plus_code" : {
+            "compound_code" : "2RGP+74 Văn Chương, Đống Đa, Hà Nội",
+            "global_code" : "7PH72RGP+74"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJ0X7pA5yrNTERLG_6w33ulqY",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 338,
+         "vicinity" : "59 Ngõ Thông Phong"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0265294,
+               "lng" : 105.8264833
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.02790542989273,
+                  "lng" : 105.8278441298927
+               },
+               "southwest" : {
+                  "lat" : 21.02520577010728,
+                  "lng" : 105.8251444701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "621211438d4c69ba9d77ab1352e68c8454801d0d",
+         "name" : "Bệnh viện đa khoa Hà Thành",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJqVlje3arNTER7-2F-Dzkt1A",
+         "plus_code" : {
+            "compound_code" : "2RGG+JH Chợ Dừa, Đống Đa, Hà Nội",
+            "global_code" : "7PH72RGG+JH"
+         },
+         "rating" : 0,
+         "reference" : "ChIJqVlje3arNTER7-2F-Dzkt1A",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "59- 61 Vũ Thạnh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0267931,
+               "lng" : 105.839084
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.02805577989272,
+                  "lng" : 105.8403897298927
+               },
+               "southwest" : {
+                  "lat" : 21.02535612010728,
+                  "lng" : 105.8376900701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "95d2fb3a55fc4b408b63cb15109233942cf0cc62",
+         "name" : "Bệnh Viện Đa Khoa Hồng Hà",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 875,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109796985271562436834\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACSOtI5Y3xk6L2l1EnE1rA8EbCculr8GX3NmipRCizXWks4CfmNlJgVNOi8N-906RfjNoqGbsuKZiamzI2ceUjaVqCfXQbqy2baz4X0Pcz2ciR7XzhW9966QLZ1emhjFpEhCDQNY2hJ11AFKd-LyTogymGhRsA4CxdIUkSYOa5l92aNROV2Hijw",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJpbZ_jZmrNTERHh6SVVAZGpM",
+         "plus_code" : {
+            "compound_code" : "2RGQ+PJ Văn Miếu, Đống Đa, Hà Nội",
+            "global_code" : "7PH72RGQ+PJ"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJpbZ_jZmrNTERHh6SVVAZGpM",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 27,
+         "vicinity" : "16 Nguyễn Như Đổ"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0242256,
+               "lng" : 105.8102908
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.02559192989272,
+                  "lng" : 105.8117454298927
+               },
+               "southwest" : {
+                  "lat" : 21.02289227010727,
+                  "lng" : 105.8090457701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "4e1e64973cdd45367f7b9f16f6a956bec6e1901a",
+         "name" : "Bệnh viện Đa khoa Bảo Sơn 2",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110191559910365944806\"\u003eDân Ngô\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2kVr1hClplpSjAA7BE5O-uFveN8racdwSexJmuJJqW7L2ieIPEwSL5NHkh3kSvDk-PFfXMHd4eQlxJiWg36R3xbs_yj2IxEnW_2y-M6PxzwzOTgUNIs2TUNkTfibXLEeEhAUvg67YeN7uZTaf3sj2DuiGhR3xZwl7c24zr3F7pDBhE_QtVQICQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ-ypst2irNTERHo_cLcs5j9U",
+         "plus_code" : {
+            "compound_code" : "2RF6+M4 Láng Thượng, Đống Đa, Hà Nội",
+            "global_code" : "7PH72RF6+M4"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJ-ypst2irNTERHo_cLcs5j9U",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 41,
+         "vicinity" : "52 Nguyễn Chí Thanh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0622125,
+               "lng" : 105.8984996
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.06362082989272,
+                  "lng" : 105.8998414798927
+               },
+               "southwest" : {
+                  "lat" : 21.06092117010728,
+                  "lng" : 105.8971418201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "9b41fce9a4049cdddcd9a814d9e684cf4e7b2b20",
+         "name" : "Bệnh viện Đa khoa Đức Giang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 345,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106579363822494555008\"\u003eRiverside Vinhomes\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEbfGWNn_tAOLbFfnDneiOxdh1balOBhSDSx1NveThjOR1wAbWe3hOALiz67yeYbbeqmmPwAyC1CHBsv7Ys-2vmGu00H6vQOfQZFBG_nJSDxepcajgujpPjiV8_yaFpoOEhC40z8XXSnp9MdCNArJuxAvGhRoIUDsDOKIpxc0tsKw8YR1C0VmAg",
+               "width" : 567
+            }
+         ],
+         "place_id" : "ChIJXVlP85epNTERcNK0nVcGS3M",
+         "plus_code" : {
+            "compound_code" : "3V6X+V9 Đức Giang, Long Biên, Hà Nội",
+            "global_code" : "7PH73V6X+V9"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJXVlP85epNTERcNK0nVcGS3M",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 179,
+         "vicinity" : "54 Trường Lâm"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0424799,
+               "lng" : 105.8441359
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.04384782989273,
+                  "lng" : 105.8454500798927
+               },
+               "southwest" : {
+                  "lat" : 21.04114817010728,
+                  "lng" : 105.8427504201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "581e975fd85d3306f93f41481b717031dc4f0651",
+         "name" : "Bệnh Viện Đa Khoa Hồng Ngọc",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 333,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102939161446048987932\"\u003eTHẨM MỸ HỒNG NGỌC\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVQaia16UDinQO5qJc-EWeJ_Y0uFyGJR0VI2J3ZTlsJrcxHvYQqn9jT5Jlfnhwf4cSF6v_LGYGW1ImW-7bbMxmsc3LM6UZVIfRYMW0Pr4JI39Q0ymOFgqPVADdGppboJdEhByxlIT0rCWlSEXHN1MA3-LGhR55ca_hkybCNJZMHrPEKw-8aEBQw",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJET6le7qrNTERqTwRwEO9fVg",
+         "plus_code" : {
+            "compound_code" : "2RRV+XM Quán Thánh, Ba Đình, Hà Nội",
+            "global_code" : "7PH72RRV+XM"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJET6le7qrNTERqTwRwEO9fVg",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 252,
+         "vicinity" : "55 Phố Yên Ninh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.97166,
+               "lng" : 105.7750703
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.97287032989272,
+                  "lng" : 105.7765452798927
+               },
+               "southwest" : {
+                  "lat" : 20.97017067010728,
+                  "lng" : 105.7738456201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "a7d15dc8ce8a8f018ef0de37872134f671cecc3b",
+         "name" : "Bệnh viện Đa khoa Hà Đông",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107902773613241508902\"\u003e- Những con đường chúng ta đi -\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcEk4eet8cA7fSVhvG1TfHqX8WWcnEgxOAxaqnRlRTQfIju0AybVXZou6GL656lIG7hQDQGUoytcwJO_piN_Gtyk7FtwHZbTijZTxXqbareuY2qE86P2QXAzS1vIyOD6fEhDi2YovU7jP_a4BwNMJYQ6cGhTicdAAcadCvN4VX2oE-hff1Bh7_A",
+               "width" : 1918
+            }
+         ],
+         "place_id" : "ChIJ_1BpCClTNDER4-z4r1YVbRI",
+         "plus_code" : {
+            "compound_code" : "XQCG+M2 P. Quang Trung, Hà Đông, Hà Nội",
+            "global_code" : "7PG7XQCG+M2"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ_1BpCClTNDER4-z4r1YVbRI",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 183,
+         "vicinity" : "2 Bế Văn Đàn"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.048567,
+               "lng" : 105.846088
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.04993512989272,
+                  "lng" : 105.8474558298927
+               },
+               "southwest" : {
+                  "lat" : 21.04723547010728,
+                  "lng" : 105.8447561701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "52d185bfe4afefeaadfc5b8ca54b6eaf199f97cf",
+         "name" : "Bệnh viện Đa khoa MEDLATEC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104244326046998518122\"\u003eBệnh viện Đa khoa MEDLATEC\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgVtCfwm4oedDU9w5GpcDewR5cBbbWjwKRXrKhYcwzUk8-DPfUUD8UHflb1a32GhObB2F1tkKNY-npI8lagW_s10O_oyatYc2pKity9od2pWxQletLX5rN8NBpcYTSBYjEhAmsinX9qrH9QUP4BlsfJ7DGhQUHcTM70JKJl6rPFtp6FO6BG3_cQ",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJHf5i_bOrNTERIamwe08lWII",
+         "plus_code" : {
+            "compound_code" : "2RXW+CC Phúc xá, Ba Đình, Hà Nội",
+            "global_code" : "7PH72RXW+CC"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJHf5i_bOrNTERIamwe08lWII",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 178,
+         "vicinity" : "42 Nghĩa Dũng"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0563846,
+               "lng" : 105.7022445
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.05780052989272,
+                  "lng" : 105.7037568298927
+               },
+               "southwest" : {
+                  "lat" : 21.05510087010728,
+                  "lng" : 105.7010571701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "624bae7f9fad13eedab2ff4049712ccea95990f4",
+         "name" : "Bệnh viện Đa khoa Huyện Hoài Đức",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103074094659765575747\"\u003eTrung Hoài Phạm\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwBAu8js2C3n3wjRAZYedscvscqNIzXkeAO8RdW12XWG17lyE4zErIzqn2seAjtlw-GhjtDTmN6SSMn-WloLken74NyiSsSm757QYWLymC2imfsgRzLS55uCnG4UUmLSwEhDR59cxSYKkgmmyNjdFyre2GhQqHfDzxmHbaiOXGxR5jYhvko_qwg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJF9DedzBUNDERTnucIiPMOSw",
+         "plus_code" : {
+            "compound_code" : "3P42+HV Đức Giang, Hoài Đức, Hà Nội",
+            "global_code" : "7PH73P42+HV"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJF9DedzBUNDERTnucIiPMOSw",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 44,
+         "vicinity" : "Thôn Lũng Kênh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0313723,
+               "lng" : 105.8351703
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.03255922989272,
+                  "lng" : 105.8370312
+               },
+               "southwest" : {
+                  "lat" : 21.02985957010728,
+                  "lng" : 105.8337068
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "d35c7bd32889df84b1691d2e55ddeb5878869d93",
+         "name" : "Bệnh viện Đa khoa - Xanh Pôn",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 363,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102371987185140943686\"\u003eTHIEN NAM\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcRIl_fV-4Z_1BgpYmjydo4LkCj1p_g_Dg0FNjYLbfCZVDYA1vO7CMYsIIFYMsaOX0pGK4UOS41kJFy7W1hXCUggZYfFKKjTjvjTjGyWDHx7dVJExCh3FKS7A6yEr2oo-EhB3fR2Zo_KvalcVzKavlf9lGhRn6KxegVZfbhoqIvGwmr690uGVXQ",
+               "width" : 594
+            }
+         ],
+         "place_id" : "ChIJuQlSspirNTERIkZKe_SKNBo",
+         "plus_code" : {
+            "compound_code" : "2RJP+G3 Điện Bàn, Ba Đình, Hà Nội",
+            "global_code" : "7PH72RJP+G3"
+         },
+         "rating" : 4,
+         "reference" : "ChIJuQlSspirNTERIkZKe_SKNBo",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 468,
+         "vicinity" : "12 Chu Văn An"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.9928839,
+               "lng" : 105.8017452
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.99426092989273,
+                  "lng" : 105.8031338298927
+               },
+               "southwest" : {
+                  "lat" : 20.99156127010728,
+                  "lng" : 105.8004341701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "a1f38000eb95edb17809128ff45536bb04fc3d4f",
+         "name" : "BỆNH VIỆN ĐA KHOA MEDLATEC",
+         "place_id" : "ChIJczaC_NytNTERdIne9oUzBhg",
+         "plus_code" : {
+            "compound_code" : "XRV2+5M Thanh Xuân Bắc, Thanh Xuân, Hà Nội",
+            "global_code" : "7PG7XRV2+5M"
+         },
+         "rating" : 0,
+         "reference" : "ChIJczaC_NytNTERdIne9oUzBhg",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "5 Khuất Duy Tiến"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0401941,
+               "lng" : 105.7575549
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.04152792989272,
+                  "lng" : 105.7589195298927
+               },
+               "southwest" : {
+                  "lat" : 21.03882827010728,
+                  "lng" : 105.7562198701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "bf1cba66e3ff6b49d280adb118620951027af2ba",
+         "name" : "Bệnh Viện Đa Khoa Fpital",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101143586294355593749\"\u003eTravel Me\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-30EZj4eOiQ7OKC9Y37VuqZ_VJLmD2i7MrW6TrVW9N-dqWbPwF9E82fTisVLwmcidX4l6wEvlvFFz4VQE5UPDJYVIphO8W6Zb8hzjS6Zz-R0mIwX3D8Vv2cJDrQpwR-REhDUFn4cRMnRb_Lwh6Nu5Ql7GhQpQqJqkRbEIvRPSsTJkFLpOnGPlg",
+               "width" : 400
+            }
+         ],
+         "place_id" : "ChIJ11czNWBVNDERGWVK7hpJtAU",
+         "plus_code" : {
+            "compound_code" : "2QR5+32 Phúc Diễn, Bắc Từ Liêm, Hà Nội",
+            "global_code" : "7PH72QR5+32"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ11czNWBVNDERGWVK7hpJtAU",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "59-55 Ngõ 90 Phúc Diễn"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.9532608,
+               "lng" : 105.8360513
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.95462252989272,
+                  "lng" : 105.8373942298927
+               },
+               "southwest" : {
+                  "lat" : 20.95192287010727,
+                  "lng" : 105.8346945701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "51d25d2535e645641ca10d9e504561a88dce1b5c",
+         "name" : "Bệnh Viện Thăng Long",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1360,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113071712256876871958\"\u003eBệnh Viện Đa Khoa Thăng Long\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtiJHUmgk0Ew5a5EYZjZbBlSvOB6X1dR3YYZorUveyJ8gpIoJMBXa_QWu8yOPU0dqnjgXYwrRZCH6csF3F6FgbZTgdj2r2pRSlN7v7BX-XZy30pAfCVy4BCEijKKrnKi4EhDn__uUwl4zDEfTjiJHvqopGhRSFsQqaAFpRnCmHWFefbTiydCjSw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ386rWq6tNTERLZ-YSbG4Obg",
+         "plus_code" : {
+            "compound_code" : "XR3P+8C Tam Hiệp, Thanh Trì, Hà Nội",
+            "global_code" : "7PG7XR3P+8C"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ386rWq6tNTERLZ-YSbG4Obg",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 48,
+         "vicinity" : "127 Tựu Liệt"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.043043,
+               "lng" : 105.8710026
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.04435307989272,
+                  "lng" : 105.8723993298927
+               },
+               "southwest" : {
+                  "lat" : 21.04165342010727,
+                  "lng" : 105.8696996701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "e9a33726f0dee3b1c694611f43464a4b2ac72aaf",
+         "name" : "Bệnh Viện Đa Khoa Quốc Tế Bắc Hà",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107167043771896730512\"\u003eAnh Tình Chưa biết\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7UIiM95LQhQHRvCB1hIw_Nx4cvCCC8492rjVk99S_rzpkzJQVxNxwpiIPET7IuXbNhTAn78vK-X1-25RJoV18WlKAwzVGIUOKl7_tZFMM6QRfrd5xelgwb14DORH-2jUEhBiuT5O03fbmpiagdpJNnLDGhQCNUPPNv6jmOYZ5P66HiaX6nyIrw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJQ4QIJ9erNTEREprc8TsTrrA",
+         "plus_code" : {
+            "compound_code" : "2VVC+6C Ngọc Lâm, Long Biên, Hà Nội",
+            "global_code" : "7PH72VVC+6C"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJQ4QIJ9erNTEREprc8TsTrrA",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 39,
+         "vicinity" : "137 Nguyễn Văn Cừ"
+      },
+
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0428274,
+               "lng" : 105.7906222
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.04417322989272,
+                  "lng" : 105.7918044798927
+               },
+               "southwest" : {
+                  "lat" : 21.04147357010728,
+                  "lng" : 105.7891048201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "548a8cc242b0e03ae3b28cc923f3cdc11fea3fff",
+         "name" : "Phòng Cảnh Sát Phòng Cháy Và Chữa Cháy Số 3",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116781685431616769663\"\u003eNoi Trinh Khac\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAV7m0jYz8LGpt95Q8t_QqTaWGtXbjH1nOt8fHAhWDNj8Rk6PHjvkj9OICrE1HMNyUKV6UAAbnOdqNr85cuThSiZ7xZ8Er0gwxyF4fQti7v60r8_eKhkYbHXA1YZ8soa_FEhCXkH78XhjGA53bxqqNwsvIGhTAHkaufYjvMpN4Th7yAXG2PQeeng",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJEzoJLzGrNTERWi23lmBqMAs",
+         "plus_code" : {
+            "compound_code" : "2QVR+46 Nghĩa Tân, Cầu Giấy, Hà Nội",
+            "global_code" : "7PH72QVR+46"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJEzoJLzGrNTERWi23lmBqMAs",
+         "scope" : "GOOGLE",
+         "types" : [ "fire_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "36 Nguyễn Phong Sắc"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.042794,
+               "lng" : 105.7909448
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.04401787989272,
+                  "lng" : 105.7923443798927
+               },
+               "southwest" : {
+                  "lat" : 21.04131822010728,
+                  "lng" : 105.7896447201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "eebcf87b89cbcf4b6c30d3a0258e0fe3a802b237",
+         "name" : "Phòng Cảnh Sát PCCC Cầu Giấy",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJRe0BLzGrNTERaq_0C2teJdE",
+         "plus_code" : {
+            "compound_code" : "2QVR+49 Nghĩa Tân, Cầu Giấy, Hà Nội",
+            "global_code" : "7PH72QVR+49"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJRe0BLzGrNTERaq_0C2teJdE",
+         "scope" : "GOOGLE",
+         "types" : [ "fire_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Số 131 Nguyễn Phong Sắc"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0206698,
+               "lng" : 105.8558984
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.02202972989272,
+                  "lng" : 105.8572141798927
+               },
+               "southwest" : {
+                  "lat" : 21.01933007010728,
+                  "lng" : 105.8545145201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "1367eb58feba6ff51104cdf38777ba5a2d6fd3d2",
+         "name" : "Sở Cảnh Sát PCCC Hà Nội",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114178269978476708348\"\u003eNam Trinh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-yJLAt7Y4r9IGjPZ3LfYVI8NyJsANmHiiwfQ1Gs0uBUsT0janldvxycNlV9cbcNJs014nJ4ZSdyB96jg2G6aOpo-HHHe04i5CPUP5oI3A8EotKvDmlB8t_y5zcGLZxk5EhANQoW20PKGPzAgGTQV2duMGhQmxj-yF__wzqhau5m5oj3kd8OwDg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJhY1vpu2rNTER04QnvYTXb7U",
+         "plus_code" : {
+            "compound_code" : "2VC4+79 Phan Chu Trinh, Hoàn Kiếm, Hà Nội",
+            "global_code" : "7PH72VC4+79"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJhY1vpu2rNTER04QnvYTXb7U",
+         "scope" : "GOOGLE",
+         "types" : [ "fire_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "29 Phan Chu Trinh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0224274,
+               "lng" : 105.8563916
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.02374927989272,
+                  "lng" : 105.8577323798927
+               },
+               "southwest" : {
+                  "lat" : 21.02104962010728,
+                  "lng" : 105.8550327201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "cb3a2f2de940afebefc24a60a23df868c31cac54",
+         "name" : "Cảnh Sát Phòng Cháy",
+         "place_id" : "ChIJU6d8ROyrNTER4FLq7X7bO5w",
+         "rating" : 0,
+         "reference" : "ChIJU6d8ROyrNTER4FLq7X7bO5w",
+         "scope" : "GOOGLE",
+         "types" : [ "fire_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "Phan Chu Trinh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.9993685,
+               "lng" : 105.7963014
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.00059672989272,
+                  "lng" : 105.7977014798927
+               },
+               "southwest" : {
+                  "lat" : 20.99789707010727,
+                  "lng" : 105.7950018201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "7aa8b2eaafb5a5ebd297535464ded1c51ade8f53",
+         "name" : "Thai An Fire Protection & Commercial Service Corporation",
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110873748643055581753\"\u003e이진형\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZxD7BlR_yoKWATvHE7cR3EG3NsNSd0rliKGBmPkagISV4kRmzKZ_Kw996k1PWdPaN-MFPsg7N81rNDvk_de5T_jcIs65KgEaaCHq8zrvFZiZzvUMztBW8VDu-XJXE6_cEhCHQd6B8E-G-4qWbEdq6MaBGhQosSim33wm3pyMLlmSoJ2R-32Fuw",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJZT_f5rqsNTERrzMMaISJ7JI",
+         "plus_code" : {
+            "compound_code" : "XQXW+PG Nhân Chính, Thanh Xuân, Hà Nội",
+            "global_code" : "7PG7XQXW+PG"
+         },
+         "rating" : 0,
+         "reference" : "ChIJZT_f5rqsNTERrzMMaISJ7JI",
+         "scope" : "GOOGLE",
+         "types" : [ "fire_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "23 Vu Huu Street, Nhan Chinh Ward, Thanh Xuan District, Hanoi City"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0406074,
+               "lng" : 105.762291
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.04196247989272,
+                  "lng" : 105.7636430798927
+               },
+               "southwest" : {
+                  "lat" : 21.03926282010728,
+                  "lng" : 105.7609434201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "c6b885a36cea595a9716958adc26ce7e70c66a8e",
+         "name" : "Công Ty TNHH Thương Mại Dịch Vụ KT Hà Minh Trí",
+         "place_id" : "ChIJq9d77cBUNDERx5aIjG0e0q8",
+         "plus_code" : {
+            "compound_code" : "2QR6+6W Cầu Diễn, Nam Từ Liêm, Hà Nội",
+            "global_code" : "7PH72QR6+6W"
+         },
+         "rating" : 0,
+         "reference" : "ChIJq9d77cBUNDERx5aIjG0e0q8",
+         "scope" : "GOOGLE",
+         "types" : [ "fire_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "18, Cầu Diễn, Thị trấn Cầu Diễn, Huyện Từ Liêm, Thành phố Hà Nội"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0309514,
+               "lng" : 105.8168712
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.03222032989272,
+                  "lng" : 105.8182361798927
+               },
+               "southwest" : {
+                  "lat" : 21.02952067010728,
+                  "lng" : 105.8155365201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "f53e07d499ab7c205c242c1bfbb5fec67e44b71a",
+         "name" : "Công Ty TNHH Phòng Cháy Chữa Cháy Và Cứu Hộ, Cứu Nạn ViệT Nam",
+         "place_id" : "ChIJHQ6meG2rNTERUEKhvrj8Y0I",
+         "plus_code" : {
+            "compound_code" : "2RJ8+9P Ngọc Khánh, Ba Đình, Hà Nội",
+            "global_code" : "7PH72RJ8+9P"
+         },
+         "rating" : 0,
+         "reference" : "ChIJHQ6meG2rNTERUEKhvrj8Y0I",
+         "scope" : "GOOGLE",
+         "types" : [ "fire_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "15/409/53/2, Kim Mã, Phường Ngọc Khánh, Quận Ba Đình"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.9838118,
+               "lng" : 105.8608997
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.98511382989272,
+                  "lng" : 105.8623108798927
+               },
+               "southwest" : {
+                  "lat" : 20.98241417010728,
+                  "lng" : 105.8596112201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "ba1be080f428c7702927cf92e985a15f5ee80f64",
+         "name" : "Cảnh sát Phòng Cháy Hoàng Mai",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJUaB87hWsNTERG1S7ohIKYEY",
+         "plus_code" : {
+            "compound_code" : "XVM6+G9 Hoàng Văn Thụ, Hoàng Mai, Hà Nội",
+            "global_code" : "7PG7XVM6+G9"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJUaB87hWsNTERG1S7ohIKYEY",
+         "scope" : "GOOGLE",
+         "types" : [ "fire_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Đền Lừ"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0427608,
+               "lng" : 105.7525468
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.04407567989272,
+                  "lng" : 105.7540093298927
+               },
+               "southwest" : {
+                  "lat" : 21.04137602010728,
+                  "lng" : 105.7513096701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "edb2b9fa7cdff87628cb1096e79a4f479918689f",
+         "name" : "Đội PCCC Bắc Từ Liêm",
+         "photos" : [
+            {
+               "height" : 1153,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107902773613241508902\"\u003e- Những con đường chúng ta đi -\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsfTI1MmERRLbrWToLJAO8wFqCMcBiUsDE_8b2-dBFHoFmqDWzz4yXRFSjoadD94OCFnkWAoWLSSP2QM1Ht0aLoevKsvrc7MVjj1pIqbaPwA06UYdg7GchaN_qSYfDl__EhCSWB1SqvhPR9QgEJydfwTIGhQK3wrebgdtTg6N1faH_e6OuCOCiA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJk7Cn3vdVNDERtrABfG58Mww",
+         "plus_code" : {
+            "compound_code" : "2QV3+42 Phúc Diễn, Từ Liêm, Hà Nội",
+            "global_code" : "7PH72QV3+42"
+         },
+         "rating" : 0,
+         "reference" : "ChIJk7Cn3vdVNDERtrABfG58Mww",
+         "scope" : "GOOGLE",
+         "types" : [ "fire_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "Phúc Diễn, Bắc Từ Liêm, Hà Nội, Việt Nam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.9546674,
+               "lng" : 105.8418188
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.95616252989272,
+                  "lng" : 105.8431398298927
+               },
+               "southwest" : {
+                  "lat" : 20.95346287010727,
+                  "lng" : 105.8404401701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "bb27de3eff40e106cfef43de3d666bd29cb9984f",
+         "name" : "PCCC Khu vực số 5",
+         "place_id" : "ChIJKSY_fBqtNTERpUipybzxNmI",
+         "plus_code" : {
+            "compound_code" : "XR3R+VP Văn Điển, Thanh Trì, Hà Nội",
+            "global_code" : "7PG7XR3R+VP"
+         },
+         "rating" : 0,
+         "reference" : "ChIJKSY_fBqtNTERpUipybzxNmI",
+         "scope" : "GOOGLE",
+         "types" : [ "fire_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "12 Tựu Liệt"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0320635,
+               "lng" : 105.7646403
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.03343827989272,
+                  "lng" : 105.7659113798927
+               },
+               "southwest" : {
+                  "lat" : 21.03073862010728,
+                  "lng" : 105.7632117201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "74e8c2dd10aece61472796ea6cee15cb65bb682f",
+         "name" : "Nam Viet Fire Equipment Company",
+         "place_id" : "ChIJL4NV9rtUNDERANv6sCZfEnA",
+         "plus_code" : {
+            "compound_code" : "2QJ7+RV Mỹ Đình, Nam Từ Liêm, Hà Nội",
+            "global_code" : "7PH72QJ7+RV"
+         },
+         "rating" : 0,
+         "reference" : "ChIJL4NV9rtUNDERANv6sCZfEnA",
+         "scope" : "GOOGLE",
+         "types" : [ "fire_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "Building C3, My Dinh 1 Urban, Tu Lien DIstrict"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.9976733,
+               "lng" : 105.7953787
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.99899822989272,
+                  "lng" : 105.7968844298927
+               },
+               "southwest" : {
+                  "lat" : 20.99629857010728,
+                  "lng" : 105.7941847701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "814642d8590ac127df51132a7b15da186ad94fda",
+         "name" : "Thai An Fire & Service Trading Joint Stock Company",
+         "place_id" : "ChIJ7dWjXbqsNTERo7DFYqGd5k0",
+         "plus_code" : {
+            "compound_code" : "XQXW+35 Trung Văn, Nam Từ Liêm, Hà Nội",
+            "global_code" : "7PG7XQXW+35"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ7dWjXbqsNTERo7DFYqGd5k0",
+         "scope" : "GOOGLE",
+         "types" : [ "fire_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "23, Vu Huu Street, Nhan Chinh Ward, Thanh Xuan District"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.987869,
+               "lng" : 105.807126
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.98924607989272,
+                  "lng" : 105.8084150798927
+               },
+               "southwest" : {
+                  "lat" : 20.98654642010727,
+                  "lng" : 105.8057154201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "f8928f85d74b7ffae75727e615ec1068c88e9876",
+         "name" : "ĐộI ChữA CháY Và CứU NạN CứU Hộ ChuyêN NghiệP QuậN Thanh XuâN",
+         "place_id" : "ChIJ26W2yeqsNTERkWkpfFmhprM",
+         "plus_code" : {
+            "compound_code" : "XRQ4+4V Hạ Đình, Thanh Xuân, Hà Nội",
+            "global_code" : "7PG7XRQ4+4V"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ26W2yeqsNTERkWkpfFmhprM",
+         "scope" : "GOOGLE",
+         "types" : [ "fire_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "Ngõ 129 Nguyễn Xiển"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0095873,
+               "lng" : 105.7791857
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.01091917989272,
+                  "lng" : 105.7805076798927
+               },
+               "southwest" : {
+                  "lat" : 21.00821952010728,
+                  "lng" : 105.7778080201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "deb7f86705ab4e2f1132a3970b2d59005f9b20c7",
+         "name" : "Công Ty TNHH Phòng Cháy & Chữa Cháy Sao Việt",
+         "place_id" : "ChIJAfQSilRTNDERH_hUfGIappQ",
+         "plus_code" : {
+            "compound_code" : "2Q5H+RM Mễ Trì, Nam Từ Liêm, Hà Nội",
+            "global_code" : "7PH72Q5H+RM"
+         },
+         "rating" : 0,
+         "reference" : "ChIJAfQSilRTNDERH_hUfGIappQ",
+         "scope" : "GOOGLE",
+         "types" : [ "fire_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "Thôn Thượng, Xã Mễ Trì, Huyện Từ Liêm"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0470659,
+               "lng" : 105.8074164
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.04830437989272,
+                  "lng" : 105.8086534798927
+               },
+               "southwest" : {
+                  "lat" : 21.04560472010728,
+                  "lng" : 105.8059538201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "437689eb47438f27f410888f06f48968ac4aaffe",
+         "name" : "Công Ty TNHH Thương Mại Quốc Tế Trần Gia",
+         "place_id" : "ChIJS4BROxirNTERKI4r_ZvRriw",
+         "plus_code" : {
+            "compound_code" : "2RW4+RX Vĩnh Phú, Ba Đình, Hà Nội",
+            "global_code" : "7PH72RW4+RX"
+         },
+         "rating" : 2,
+         "reference" : "ChIJS4BROxirNTERKI4r_ZvRriw",
+         "scope" : "GOOGLE",
+         "types" : [ "fire_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "23C, Ngõ 4, Đường Hoàng Hoa Thám, Phường Thuỵ Khuê, Quận Tây Hồ"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0190076,
+               "lng" : 105.7968338
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.02036802989272,
+                  "lng" : 105.7982033298927
+               },
+               "southwest" : {
+                  "lat" : 21.01766837010727,
+                  "lng" : 105.7955036701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "d758160c4e8e7553c6536bb8be8b7b836eeead58",
+         "name" : "Công Ty Trách Nhiệm Hữu Hạn Phòng Cháy Chữa Cháy Gumsung Việt Nam",
+         "place_id" : "ChIJTx8Dyp2sNTERp_bwapZ1hQQ",
+         "plus_code" : {
+            "compound_code" : "2Q9W+JP Trung Hoà, Cầu Giấy, Hà Nội",
+            "global_code" : "7PH72Q9W+JP"
+         },
+         "rating" : 5,
+         "reference" : "ChIJTx8Dyp2sNTERp_bwapZ1hQQ",
+         "scope" : "GOOGLE",
+         "types" : [ "fire_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "09/189/82, Đường Nguyễn Ngọc Vũ, Phường Trung Hòa, Quận Thanh Xuân"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.9135671,
+               "lng" : 105.8487385
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.91491672989272,
+                  "lng" : 105.8500720298927
+               },
+               "southwest" : {
+                  "lat" : 20.91221707010727,
+                  "lng" : 105.8473723701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "366bf598f55f2f291b6664790bb325782bfb3635",
+         "name" : "Cảnh Sát Phòng Cháy Thanh Trì",
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108205486378088550569\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArhE4x_7Z9edMoQyR80LXdKhMorjdTT2H7dSUwUH4ua2v8LhpsBMOuTHOC_P8lJ6IQ7H0iKIY_6FdUjJAOeC0VA5kNqHQY4wGH21iY38HD15V4owcH84Ap_pvJ8BbfZxTEhCDtCWyvG-GLnMi-Bx9BS5RGhRdkH9W6D3MzXQ4ULtmJbOmC_mJ8g",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJ7ey-l3WyNTER_wQFNbTCESc",
+         "plus_code" : {
+            "compound_code" : "WR7X+CF Ngọc Hồi, Thanh Trì, Hà Nội",
+            "global_code" : "7PG7WR7X+CF"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ7ey-l3WyNTER_wQFNbTCESc",
+         "scope" : "GOOGLE",
+         "types" : [ "fire_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Đường Số 1"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0895642,
+               "lng" : 105.6790191
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.09089447989272,
+                  "lng" : 105.6802766298927
+               },
+               "southwest" : {
+                  "lat" : 21.08819482010728,
+                  "lng" : 105.6775769701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "ee250eb93e301c818741806a90aff2ce71f74a82",
+         "name" : "ĐỘI CẢNH SÁT PCCC&CNCH - CÔNG AN HUYỆN ĐAN PHƯỢNG",
+         "photos" : [
+            {
+               "height" : 2000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107902773613241508902\"\u003e- Những con đường chúng ta đi -\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQqcm7ER_3HXDlWL5-Iuz0xVYdrNbRnsFcreAxsGSz0F4aXiZZfWHc1g3rTYkYr_Jo-S_dZtwWxxbbyKtOwp8njCSD9DXrGhnujQgJwL3np068uJLZ6ojfaN8CPrrkL5WEhBxrGkfVOJA25QtGOinJQm8GhQamOKvGexU8DY73nVqrEd1d1Klqw",
+               "width" : 3552
+            }
+         ],
+         "place_id" : "ChIJ2R3RSHJWNDERObzxIdivxaY",
+         "plus_code" : {
+            "compound_code" : "3MQH+RJ TT. Phùng, Đan Phượng, Hà Nội",
+            "global_code" : "7PH73MQH+RJ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ2R3RSHJWNDERObzxIdivxaY",
+         "scope" : "GOOGLE",
+         "types" : [ "fire_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Khu Đồng Xây"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.025797,
+               "lng" : 105.8594513
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.02715362989272,
+                  "lng" : 105.8608040298927
+               },
+               "southwest" : {
+                  "lat" : 21.02445397010728,
+                  "lng" : 105.8581043701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "aef6c20e31e50b9b56723cda7f4041e89ec46634",
+         "name" : "Đội Phòng cháy chữa cháy và Cứu nạn cứu hộ quận Hoàn Kiếm",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJO-U4cZWrNTER4qhY542QUZI",
+         "plus_code" : {
+            "compound_code" : "2VG5+8Q Tràng Tiền, Hoàn Kiếm, Hà Nội",
+            "global_code" : "7PH72VG5+8Q"
+         },
+         "rating" : 0,
+         "reference" : "ChIJO-U4cZWrNTER4qhY542QUZI",
+         "scope" : "GOOGLE",
+         "types" : [ "fire_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "1a Đường Trần Quang Khải"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.0306136,
+               "lng" : 105.8550363
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.03193692989272,
+                  "lng" : 105.8562897798927
+               },
+               "southwest" : {
+                  "lat" : 21.02923727010728,
+                  "lng" : 105.8535901201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "91824e7689eaacc3f77c034b20c4c298b269e3c0",
+         "name" : "Công Ty Cổ Phần PCCC Bảo Minh",
+         "place_id" : "ChIJNbC6LsCrNTER3gCgGGaW-2Y",
+         "plus_code" : {
+            "compound_code" : "2VJ4+62 Lý Thái Tổ, Hoàn Kiếm, Hà Nội",
+            "global_code" : "7PH72VJ4+62"
+         },
+         "rating" : 0,
+         "reference" : "ChIJNbC6LsCrNTER3gCgGGaW-2Y",
+         "scope" : "GOOGLE",
+         "types" : [ "fire_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "16A Phố Lý Thái Tổ"
+      },
+     {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":20.985822,
+               "lng":105.841072
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":20.98717132989272,
+                  "lng":105.8424595798927
+               },
+               "southwest":{
+                  "lat":20.98447167010728,
+                  "lng":105.8397599201073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id":"f7bce4f9a7a54e68198bed259477ab9238a77302",
+         "name":"Chung cư 360 giải phóng",
+         "opening_hours":{
+            "open_now":true
+         },
+         "photos":[
+            {
+               "height":3024,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116414967661245168471\"\u003ePhutomite Family\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAAvwGDQduFUGk_ZlLGmmgUkgEnnrRUqUu7ofeLE7wLOM0cHr-kNF372AkaKUXALKbESVp-zgsAQi4IjW9Q3kTwMJ2LPSCbN0E6mUsFHq-lgueEsPhZeWJRXDb_oGIf5MOnEhAxQXMMhBKBYpkaL9p6av9BGhS_DY1cvBXCATDgFPHc_vcLtaw8DA",
+               "width":4032
+            }
+         ],
+         "place_id":"ChIJYfn_5DitNTERqWcV9ban4Nk",
+         "plus_code":{
+            "compound_code":"XRPR+8C Phương Liệt, Thanh Xuân, Hà Nội",
+            "global_code":"7PG7XRPR+8C"
+         },
+         "rating":4.3,
+         "reference":"ChIJYfn_5DitNTERqWcV9ban4Nk",
+         "scope":"GOOGLE",
+         "types":[
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":31,
+         "vicinity":"360 Giải Phóng"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":20.9685325,
+               "lng":105.7926539
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":20.96989467989272,
+                  "lng":105.7939957798927
+               },
+               "southwest":{
+                  "lat":20.96719502010728,
+                  "lng":105.7912961201073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id":"54716d473b7a0665f7251f4107960a2cb286bdc8",
+         "name":"Chung Cư Viện 103",
+         "opening_hours":{
+            "open_now":true
+         },
+         "photos":[
+            {
+               "height":5312,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111327402398074488200\"\u003eHuy Tran\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAAS6MGTAUgOGH14-YClfrOylZatynjqkm1CsWKnaXKI8YmDCiq8exZcWyXVKNGl_TTk5nuUTsCWV48UmO8p-sQgocW5-KlgxQu0ZIolor-nCMoVEF6zesyDyHx6LQkFI6TEhDkBr76sWu-3vl7ufKMQ0aFGhSuthVzLwTWnLxvC2V8-dGzVwHdFA",
+               "width":2988
+            }
+         ],
+         "place_id":"ChIJ72JDvdesNTERQWlQRMQhXl8",
+         "plus_code":{
+            "compound_code":"XQ9V+C3 Tân Triều, Thanh Trì, Hà Nội",
+            "global_code":"7PG7XQ9V+C3"
+         },
+         "rating":4.4,
+         "reference":"ChIJ72JDvdesNTERQWlQRMQhXl8",
+         "scope":"GOOGLE",
+         "types":[
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":29,
+         "vicinity":"Tân Triều, Thanh Trì, Hà Nội, Việt Nam"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":21.0228904,
+               "lng":105.8145766
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":21.02417382989272,
+                  "lng":105.8159391798927
+               },
+               "southwest":{
+                  "lat":21.02147417010728,
+                  "lng":105.8132395201073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id":"d4edbad2db631fd4336de123607409267101fb4c",
+         "name":"Chung cư C1 Thành Công",
+         "place_id":"ChIJf98seG-rNTERldbWJMsOVTQ",
+         "plus_code":{
+            "compound_code":"2RF7+5R Thành Công, Ba Đình, Hà Nội",
+            "global_code":"7PH72RF7+5R"
+         },
+         "rating":0,
+         "reference":"ChIJf98seG-rNTERldbWJMsOVTQ",
+         "scope":"GOOGLE",
+         "types":[
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":0,
+         "vicinity":"102 Thành Công"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":20.9959592,
+               "lng":105.8233558
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":20.99723652989272,
+                  "lng":105.8247213298927
+               },
+               "southwest":{
+                  "lat":20.99453687010728,
+                  "lng":105.8220216701073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id":"76b807c5d31bce26969907a0540c1e5face93a90",
+         "name":"Chung Cư Hà Đô",
+         "photos":[
+            {
+               "height":2448,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114509269151947267854\"\u003ePhùng Quốc Việt\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAAhf8ltWUkFzKYVvoAAlfc8eyf8Ps4rxnAJhQz2Uytfb-tMXcREoXYjWZHeB0HFBAq6-Igx-DBB2GOcqDwBBLK9LFEuTNdS51pclONUXA4pDv3Q60Alfz9tCe1s4SywlhiEhAtI5xrRwtiVe2CkvIFOp0OGhTq3htg1oCywjoI6eO2nLtCWtUHMg",
+               "width":3264
+            }
+         ],
+         "place_id":"ChIJq7tYK4-sNTERTy5iOvW7nuo",
+         "plus_code":{
+            "compound_code":"XRWF+98 Khương Trung, Thanh Xuân, Hà Nội",
+            "global_code":"7PG7XRWF+98"
+         },
+         "rating":4.6,
+         "reference":"ChIJq7tYK4-sNTERTy5iOvW7nuo",
+         "scope":"GOOGLE",
+         "types":[
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":22,
+         "vicinity":"Ngõ 183 Hoàng Văn Thái"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":21.020026,
+               "lng":105.7931736
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":21.02134267989272,
+                  "lng":105.7944901298927
+               },
+               "southwest":{
+                  "lat":21.01864302010728,
+                  "lng":105.7917904701073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id":"6fcc1db3559de84b534dcb5e39b3ecdef48f6d57",
+         "name":"Chung cư N02 Yên Hòa",
+         "photos":[
+            {
+               "height":3000,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113225607488752581307\"\u003eThái Trầm\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAA94dRjL7gxy8nLtH7-Mzcj2DwYrGvp27K8t0QT46WhVWNEdYYB4KwPnr1Ta903Y0QUYBivud7-9aWS3Eu7tGPR56MdZdAi1uslYAGenV5Ofq-mfK6PCQNH6DBLRis5KJKEhDDu8_Y7MwqoznLjsnumoO7GhSx3VrUR_NseW4azs3O4Cm6qYF6fA",
+               "width":4000
+            }
+         ],
+         "place_id":"ChIJaf0J0V6rNTER7fxsQokwntA",
+         "plus_code":{
+            "compound_code":"2QCV+27 Yên Hoà, Cầu Giấy, Hà Nội",
+            "global_code":"7PH72QCV+27"
+         },
+         "rating":5,
+         "reference":"ChIJaf0J0V6rNTER7fxsQokwntA",
+         "scope":"GOOGLE",
+         "types":[
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":4,
+         "vicinity":"Ngõ 259 - Yên Hòa"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":21.1194828,
+               "lng":105.9781336
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":21.12079397989272,
+                  "lng":105.9795108298927
+               },
+               "southwest":{
+                  "lat":21.11809432010728,
+                  "lng":105.9768111701073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id":"1da6303b3b128f9a91ec81ee6af278bbd1222e9c",
+         "name":"Chung Cư Từ Sơn Bắc ninh",
+         "opening_hours":{
+            "open_now":true
+         },
+         "photos":[
+            {
+               "height":1536,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102514433010250800675\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAAP1-bEzddxE5hnwLhvK9JBH-x8Btz5BCjGnhiSBkPJ1fbQOrxkn87u9B6kwdpWeyFTbSU6saiV5HPh94nh-tlRq9jFCosDEEvAb0uR4xrVCKAzWaohet1eRIUyLRf1FL4EhCkZMNtcFbJYLOocDBBPqenGhSp-LvpOevbwEBx_h-058SgclXJ8A",
+               "width":2048
+            }
+         ],
+         "place_id":"ChIJqybTRXEINTERuSPpnICIRpU",
+         "plus_code":{
+            "compound_code":"4X9H+Q7 Tx. Từ Sơn, Bắc Ninh",
+            "global_code":"7PH74X9H+Q7"
+         },
+         "rating":4.5,
+         "reference":"ChIJqybTRXEINTERuSPpnICIRpU",
+         "scope":"GOOGLE",
+         "types":[
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":28,
+         "vicinity":"khu đô thị bắc, Từ Sơn, Bắc Ninh, Việt Nam"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":20.9848936,
+               "lng":105.8694304
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":20.98624217989272,
+                  "lng":105.8707419298927
+               },
+               "southwest":{
+                  "lat":20.98354252010728,
+                  "lng":105.8680422701073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id":"3ef0c5b932e21897b9ba2504faf422b57a8d5d33",
+         "name":"chung cư CTI.1-1A Vĩnh Hoàng",
+         "photos":[
+            {
+               "height":960,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116790036429559593201\"\u003eĐinh Quang Lương\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAAlGcwytpXaHa72w_GzEMljGlciV9nHxAvXkl_CoWtRAvRqhJ38B-uj4Ihw9S9NiFO0wWf6ggcYwZg0Uh7Qwf98gEdgncw1XO2WX2LLtm8lVL0HuhFPnOzXtHDSrCU5OuuEhDnI7-VUW-44jioaKSogm9LGhS96-aJk-MCu6oPcCaLB0jiLX2mvg",
+               "width":720
+            }
+         ],
+         "place_id":"ChIJebab0BisNTERYr8yuxT3vyo",
+         "plus_code":{
+            "compound_code":"XVM9+XQ Vĩnh Hưng, Hoàng Mai, Hà Nội",
+            "global_code":"7PG7XVM9+XQ"
+         },
+         "rating":4.2,
+         "reference":"ChIJebab0BisNTERYr8yuxT3vyo",
+         "scope":"GOOGLE",
+         "types":[
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":6,
+         "vicinity":"Chung cư CTi1, 1A Vĩnh Hoàng"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":20.9727829,
+               "lng":105.8383372
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":20.97436547989272,
+                  "lng":105.8396900298927
+               },
+               "southwest":{
+                  "lat":20.97166582010728,
+                  "lng":105.8369903701073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id":"b278b3c4fc64662b01805588e9c44d16e5ab1bac",
+         "name":"Chung cư Eco Lake View 32 Đại Từ",
+         "photos":[
+            {
+               "height":3096,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100062611097771429323\"\u003e100062611097771429323\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAA4a_ss5tjr7_iE8wJK7_9T_WzQD3kfZCx4Cc-Cu_r4koa0iHm5tx2KRnjVk9f_4PpOe7xYu8uutjcWOzN8BeDecvyoEuBHmecorzXNRhEXrjP09Gqy8FhGiB6Mb-DHcQZEhC76JKB26agdptKdBR8knj_GhRpNwAz4AUux6Q3miJSRtueHSJ_qg",
+               "width":4128
+            }
+         ],
+         "place_id":"ChIJsW_qm4mtNTER4TzO2yIRyeQ",
+         "plus_code":{
+            "compound_code":"XRFQ+48 Đại Kim, Hoàng Mai, Hà Nội",
+            "global_code":"7PG7XRFQ+48"
+         },
+         "rating":4.2,
+         "reference":"ChIJsW_qm4mtNTER4TzO2yIRyeQ",
+         "scope":"GOOGLE",
+         "types":[
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":18,
+         "vicinity":"32 Đại Từ"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":21.0321277,
+               "lng":105.7506998
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":21.03344847989272,
+                  "lng":105.7520995798927
+               },
+               "southwest":{
+                  "lat":21.03074882010728,
+                  "lng":105.7493999201073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id":"764da387cfb2159a2025c43f60859dbb27780253",
+         "name":"Chung Cư Xuân Phương Quốc Hội",
+         "opening_hours":{
+            "open_now":true
+         },
+         "photos":[
+            {
+               "height":4128,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112529379549578536112\"\u003eBĐS Huệ Anh Hà Nội 0972015918\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAAnkpqzuARG6thHE7lA0_kQox13SxgtRLhPBSq69NM2g6Aabj91ox16AYepobB9ecizXWvK8eBjtv3Wsqo6aO24i6mJQ8HYe9WFL-5w71-xqCU8B1cx706NvdflhU_ZNR9EhAfnuvZzinj4M47n161Rl_9GhQ33MOdfPkRQUvPWZ5nBDzikR0UqQ",
+               "width":3096
+            }
+         ],
+         "place_id":"ChIJY9Hu_5ZUNDER-rztzda0KdA",
+         "plus_code":{
+            "compound_code":"2QJ2+V7 Xuân Phương, Nam Từ Liêm, Hà Nội",
+            "global_code":"7PH72QJ2+V7"
+         },
+         "rating":4,
+         "reference":"ChIJY9Hu_5ZUNDER-rztzda0KdA",
+         "scope":"GOOGLE",
+         "types":[
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":46,
+         "vicinity":"Xuân Phương, Từ Liêm, Hà Nội, Việt Nam"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":20.9803091,
+               "lng":105.7849806
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":20.98163882989272,
+                  "lng":105.7863044798927
+               },
+               "southwest":{
+                  "lat":20.97893917010728,
+                  "lng":105.7836048201073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id":"7888b820022e7a7b01f57e333dd46d2e61447136",
+         "name":"Chung cư Booyoung Vina PKD Chủ Đầu Tư",
+         "opening_hours":{
+            "open_now":true
+         },
+         "photos":[
+            {
+               "height":327,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102444712516500081288\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAAZdEx57eW053wjc6jKXXHQ6red6Xh5j_iMfSuWXJWPlOwn6HZETi-LHZWz9RIfuaiAt1aFtEX2kPtY1-6tZJBjZ1dV_GMN_o51LjCcSwMqBEzg0bhUWgP39G24lOUqpGREhD3oUHUCXeRQQp4t6mhmjGAGhRfXWG26z1tcL0cl9MgwxbWrdmw_g",
+               "width":640
+            }
+         ],
+         "place_id":"ChIJpaGr3MysNTER2M3kIitvnw8",
+         "plus_code":{
+            "compound_code":"XQJM+4X P. Mộ Lao, Hà Đông, Hà Nội",
+            "global_code":"7PG7XQJM+4X"
+         },
+         "rating":4.2,
+         "reference":"ChIJpaGr3MysNTER2M3kIitvnw8",
+         "scope":"GOOGLE",
+         "types":[
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":43,
+         "vicinity":"Văn Phòng Chủ Đầu Tư Booyoung, Số 8 Vũ Trọng Khánh"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":20.9763449,
+               "lng":105.7614954
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":20.97772597989272,
+                  "lng":105.7627542298927
+               },
+               "southwest":{
+                  "lat":20.97502632010728,
+                  "lng":105.7600545701073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id":"fcd77e7b33a8c95d831490ed40fb79fc76f709b0",
+         "name":"Chung cư Anland Complex",
+         "photos":[
+            {
+               "height":3120,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102428845189209950740\"\u003emúa Lân Sư Rồng 0983692813\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAAbEs5mZqVgUMv7VkkOvmKFRbqZ8DWwGYxMKQDpqAY3xJ1d2rbUpEB51OgTjwlaVMTuSQZebXXYNSiPdCkXoKNajPvwal_gWlUeaWvKJR_WublVKloI2WvxX4QOBKblvQ3EhDbmcB_BSOqsM4rrT4N8hFOGhTEEW6lL29WBQO5KAGX8PFLqnY8ww",
+               "width":4160
+            }
+         ],
+         "place_id":"ChIJjVxOMyJTNDERSPtO4p9njFg",
+         "plus_code":{
+            "compound_code":"XQG6+GH La Khê, Hà Đông, Hà Nội",
+            "global_code":"7PG7XQG6+GH"
+         },
+         "rating":4.5,
+         "reference":"ChIJjVxOMyJTNDERSPtO4p9njFg",
+         "scope":"GOOGLE",
+         "types":[
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":13,
+         "vicinity":"P. Tố Hữu"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":20.989188,
+               "lng":105.865851
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":20.99049677989272,
+                  "lng":105.8671512798927
+               },
+               "southwest":{
+                  "lat":20.98779712010728,
+                  "lng":105.8644516201073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id":"e0aefba298f7581f37674cc1368c2ed334561e41",
+         "name":"Chung cư New Horizon City - 87 Lĩnh Nam",
+         "photos":[
+            {
+               "height":4032,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101417223047062295953\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAA5QtdIFiUHK4UXNWQuMrhf3rsDiNfOYEjzMobooZyu5UOhUK1iuaJvkJP24Lf5cSm4W0KwcQkFH4wdfgOsv2rCtihs9iGftw_xECoz1DxbIDDVHtgO48XuerbzT_UM6utEhB3ActxzjzUnq-M8l_ZSSFYGhQywAqdvOCZ7ROUBh1a_EseqhKMNw",
+               "width":3024
+            }
+         ],
+         "place_id":"ChIJ1YdlMBqsNTER6OWru1x0qis",
+         "plus_code":{
+            "compound_code":"XVQ8+M8 Mai Động, Hoàng Mai, Hà Nội",
+            "global_code":"7PG7XVQ8+M8"
+         },
+         "rating":4.4,
+         "reference":"ChIJ1YdlMBqsNTER6OWru1x0qis",
+         "scope":"GOOGLE",
+         "types":[
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":32,
+         "vicinity":"87 Lĩnh Nam"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":21.0480187,
+               "lng":105.8858132
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":21.04949817989272,
+                  "lng":105.8870839798927
+               },
+               "southwest":{
+                  "lat":21.04679852010728,
+                  "lng":105.8843843201073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id":"96a0f0c73814388dcfc6e49339637b2deb750887",
+         "name":"Chung cư Gia Thụy",
+         "photos":[
+            {
+               "height":3024,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110159693687139824459\"\u003eThanh Lê\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAATKTP-wWqXOHbX-frWV3qUP-nQHF5erf01rHaDfFtExO8f1IeNZpEPIG5d3mVkMABghmeHjLSMRwb8HFLPD-pVYUGzxaFoXCpRV4OLxvXcSGyLNVY7T-DBYxs9e9TvpFwEhAMpbpEty4oaVaygEDyToi5GhSmV5yJZgoxadSHHg06dgV81XwpKw",
+               "width":4032
+            }
+         ],
+         "place_id":"ChIJMVDqTnipNTERTfC7EOlTgbE",
+         "plus_code":{
+            "compound_code":"2VXP+68 Gia Thụy, Long Biên, Hà Nội",
+            "global_code":"7PH72VXP+68"
+         },
+         "rating":4.3,
+         "reference":"ChIJMVDqTnipNTERTfC7EOlTgbE",
+         "scope":"GOOGLE",
+         "types":[
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":4,
+         "vicinity":"Ngách 564/32 Nguyễn Văn Cừ"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":21.0100207,
+               "lng":105.7222679
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":21.01135952989272,
+                  "lng":105.7237958798927
+               },
+               "southwest":{
+                  "lat":21.00865987010727,
+                  "lng":105.7210962201073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id":"f5e16ba08abe5b6f81acd82701118f513f0ad3a4",
+         "name":"Chung cư Thăng Long Capital",
+         "opening_hours":{
+            "open_now":true
+         },
+         "photos":[
+            {
+               "height":506,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114685195277900350318\"\u003eAn Khánh, Hoài Đức, Hà Nội\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAA6JImfzdPFNE0TNRKcFt4N0HhWvGEN_HZhvOoWnWzEWYPiPFCxBisNPbDtTciZuGRAQiDYeqt4bTd0-9buyTMT1vZNXzANQF7UNCizIr--WG9m7ccrxFgCsPZQwJn-0sREhBdJa4Ut_XgDg3H2Gx0EpVFGhRQReb9V4H4Op-sr1ndkBLpJPWgYQ",
+               "width":900
+            }
+         ],
+         "place_id":"ChIJAQDA649TNDERGi_Ex19KaeA",
+         "plus_code":{
+            "compound_code":"2P6C+2W An Phú, Hoài Đức, Hà Nội",
+            "global_code":"7PH72P6C+2W"
+         },
+         "rating":3.8,
+         "reference":"ChIJAQDA649TNDERGi_Ex19KaeA",
+         "scope":"GOOGLE",
+         "types":[
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":25,
+         "vicinity":"Thăng Long Capital, Chung cư Thăng Long Victory Dự án, ĐCT08"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":20.9969136,
+               "lng":105.784105
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":20.99833027989272,
+                  "lng":105.7854975798927
+               },
+               "southwest":{
+                  "lat":20.99563062010727,
+                  "lng":105.7827979201073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id":"2f60424be3140c5f225fef4c27d41e973f17d680",
+         "name":"Chung cư VOV Mễ Trì",
+         "opening_hours":{
+            "open_now":true
+         },
+         "photos":[
+            {
+               "height":3840,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106107988797049542898\"\u003eDo huy khanh\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAAN-qERwrKdpmciimzHM6h7qKrn30szRNjFTUZmohMPeoIke_SM84v0eTIzzXCN0_bDQVuVrq4d3gqO0rgAjBeyyYNwMLDLOJeSNlaFue-N8mg1Bm0iQ1fMvmwOUST-VAwEhDmEetqyZuKpDoZgJnu3n8ZGhRmJ2NMyZvg5E7MFvrKg2GIdoSMhw",
+               "width":2160
+            }
+         ],
+         "place_id":"ChIJG6uUm7SsNTERmg2XPqAMV1g",
+         "plus_code":{
+            "compound_code":"XQWM+QJ Mễ Trì, Hà Nội",
+            "global_code":"7PG7XQWM+QJ"
+         },
+         "rating":4.3,
+         "reference":"ChIJG6uUm7SsNTERmg2XPqAMV1g",
+         "scope":"GOOGLE",
+         "types":[
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":32,
+         "vicinity":"Lương Thế Vinh"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":21.0556836,
+               "lng":105.804787
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":21.05703142989272,
+                  "lng":105.8059897798927
+               },
+               "southwest":{
+                  "lat":21.05433177010728,
+                  "lng":105.8032901201073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id":"1fa093a447b5d5de65d223affab61e24c89c8ad1",
+         "name":"Chung cư Tây Hồ Residence",
+         "photos":[
+            {
+               "height":1152,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103220767410452241870\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAAXmHqNEdkjtjj3Vy7nXr0PMosluPd-puHsitzHe1yAsUw645c0_KUTTQ8EKjuV9SGQd99YkQul4TnMDuedYgb5qDPRMsqaEqHBV9IdGyHEi7-sjCIGoCBfsPgAILhFai-EhCSTtsghEZF1hZzoTiMVcjcGhQo8mrDd3FjwRd4f9GIlTwwhUi0Sg",
+               "width":2048
+            }
+         ],
+         "place_id":"ChIJUU7qMiCrNTERlYdeqPjq5zg",
+         "plus_code":{
+            "compound_code":"3R43+7W Xuân La, Tây Hồ, Hà Nội",
+            "global_code":"7PH73R43+7W"
+         },
+         "rating":4.4,
+         "reference":"ChIJUU7qMiCrNTERlYdeqPjq5zg",
+         "scope":"GOOGLE",
+         "types":[
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":8,
+         "vicinity":"68a Võ Chí Công"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":21.041517,
+               "lng":105.7258803
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":21.04281367989272,
+                  "lng":105.7272632798927
+               },
+               "southwest":{
+                  "lat":21.04011402010727,
+                  "lng":105.7245636201073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id":"70717403b0e922b3f0f838349fde0ac16aeebd9e",
+         "name":"Chung cư AZ Vân Canh",
+         "place_id":"ChIJ1w5XzZVVNDERbZKvu4fl-xI",
+         "plus_code":{
+            "compound_code":"2PRG+J9 Khu chung cư CT Number One, Vân Canh, Hoài Đức, Hà Nội",
+            "global_code":"7PH72PRG+J9"
+         },
+         "rating":0,
+         "reference":"ChIJ1w5XzZVVNDERbZKvu4fl-xI",
+         "scope":"GOOGLE",
+         "types":[
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":0,
+         "vicinity":"Khu chung cư CT Number One, Hoài Đức, Hà Nội, Việt Nam"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":20.9932083,
+               "lng":105.8073068
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":20.99456952989272,
+                  "lng":105.8086471798927
+               },
+               "southwest":{
+                  "lat":20.99186987010728,
+                  "lng":105.8059475201073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id":"74dbfeed20c168b17aa52d86673f38e608e529c6",
+         "name":"Chung cư Golden Land",
+         "photos":[
+            {
+               "height":3024,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116481646715171463031\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAAkIO3xn4ED6WBAOCS0NUdoyF1R_ZKCnAuWVlm4NOycxcUr4ohdXubrKrQpVEi6VKbYMf9pdcLSvKMrcKW-aaBBj3SczprkzUP6uXXDCzPcHALZ2lMGo5FbAreI84R2u2bEhCxyB_iZegcjjl9XkgwAFEOGhTcX_OlBIgoaGD3XKg5Im4JNoO2Ew",
+               "width":4032
+            }
+         ],
+         "place_id":"ChIJSWrY5pWsNTERHXHdKFWtl8U",
+         "plus_code":{
+            "compound_code":"XRV4+7W Thanh Xuân Trung, Thanh Xuân, Hà Nội",
+            "global_code":"7PG7XRV4+7W"
+         },
+         "rating":4.3,
+         "reference":"ChIJSWrY5pWsNTERHXHdKFWtl8U",
+         "scope":"GOOGLE",
+         "types":[
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":11,
+         "vicinity":"275 Nguyễn Trãi"
+      },
+      {
+         "business_status":"CLOSED_TEMPORARILY",
+         "geometry":{
+            "location":{
+               "lat":20.9996788,
+               "lng":105.8704765
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":21.00088002989272,
+                  "lng":105.8717533298927
+               },
+               "southwest":{
+                  "lat":20.99818037010727,
+                  "lng":105.8690536701073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id":"8e64ee81f55abff17efcf39e04b3979c7e8b9272",
+         "name":"Chung cư hoà bình green",
+         "permanently_closed":true,
+         "photos":[
+            {
+               "height":1807,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110338169559077510644\"\u003eKhôi Đặng Huy\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAAfepdXOoxEkcssOltXFC9PTiswImZRaGo3fBJJ3OM5JftF_LxshCUPdZPvneJUNX2yvune29fqqG1OiqSObJC3wxHXGQx-7GgjEkmJeYc7OcxLLQw1gQZ50oPixwzQhHZEhBbonkTCbJuYdGESj-o9VMvGhRvGRNFcRlImhyWc9w5nTJyMakbkg",
+               "width":3212
+            }
+         ],
+         "place_id":"ChIJrfkWrQasNTERpz7mxO57mSA",
+         "plus_code":{
+            "compound_code":"XVXC+V5 Vĩnh Phú, Hai Bà Trưng, Hà Nội",
+            "global_code":"7PG7XVXC+V5"
+         },
+         "rating":4,
+         "reference":"ChIJrfkWrQasNTERpz7mxO57mSA",
+         "scope":"GOOGLE",
+         "types":[
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":8,
+         "vicinity":"505 Phố Minh Khai"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":21.0022545,
+               "lng":105.8649652
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":21.00360147989272,
+                  "lng":105.8664236798927
+               },
+               "southwest":{
+                  "lat":21.00090182010728,
+                  "lng":105.8637240201073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id":"4bf2ae06335ea3a0a996ffa9abb5bc6c71d16fab",
+         "name":"Chung Cư 25 Lạc Trung",
+         "opening_hours":{
+            "open_now":true
+         },
+         "photos":[
+            {
+               "height":850,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109835353265626420850\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAA_Qvwo0CSuJ7rs6I_lz1V03gkg1832D_XdMMk5nR7gHIBe2hz1uzzLC6kn0_RCezqBR-7U46KXkE4o3lWEbVIdxl0BXKJgoKIb96RbpzXbfX4JOxWo5-YXPNoufUVJAgBEhDH2Cdb2dFOcWmKAP-ULbT6GhSIzsInnbU3NL91i0XIwRGi38hyvQ",
+               "width":720
+            }
+         ],
+         "place_id":"ChIJvTMOPQasNTERfKmXz8rNor8",
+         "plus_code":{
+            "compound_code":"2V27+WX Vĩnh Tuy, Hai Bà Trưng, Hà Nội",
+            "global_code":"7PH72V27+WX"
+         },
+         "rating":4.1,
+         "reference":"ChIJvTMOPQasNTERfKmXz8rNor8",
+         "scope":"GOOGLE",
+         "types":[
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":7,
+         "vicinity":"Vĩnh Tuy, Hai Bà Trưng, Hà Nội, Việt Nam"
+      },
+   {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":20.9334782,
+               "lng":106.2491732
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":20.93485227989272,
+                  "lng":106.2504773798927
+               },
+               "southwest":{
+                  "lat":20.93215262010727,
+                  "lng":106.2477777201073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id":"f2ac62c7df0be63b8708b3f752a28f5d4483a124",
+         "name":"Công An Huyện Cẩm Giàng",
+         "photos":[
+            {
+               "height":2322,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103683549541766721274\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAA-ovI22IDFMvcKSliBtwPbgvFp2cXv2Zc245aKELxxvYe6cb34WgaJIkQk9_W9l8EMsM5eW5IKKNwJZAwxTfHwkiNmwNPZViqv2RcUnMc4FZJuYe4ddHTz-zrMqsDZEY4EhAJ_lXshrQ5bU3mMwaNfOttGhSUXdQ8EGUDINiOJoEPZLtIqeQQCg",
+               "width":4128
+            }
+         ],
+         "place_id":"ChIJVVVVVWKZNTERWrRlyaMdP9s",
+         "plus_code":{
+            "compound_code":"W6MX+9M tt. Lai Cách, Tp. Hải Dương, Hải Dương",
+            "global_code":"7PG8W6MX+9M"
+         },
+         "rating":5,
+         "reference":"ChIJVVVVVWKZNTERWrRlyaMdP9s",
+         "scope":"GOOGLE",
+         "types":[
+            "police",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":1,
+         "vicinity":"tt. Lai Cách, Cẩm Giàng"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":21.0222341,
+               "lng":105.8155429
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":21.02355542989272,
+                  "lng":105.8170528298927
+               },
+               "southwest":{
+                  "lat":21.02085577010728,
+                  "lng":105.8143531701073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id":"76c4287eef3428ae7fb685435b1c5a5938d2aeaa",
+         "name":"Công An phường Thành Công",
+         "photos":[
+            {
+               "height":2988,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100530652215886930740\"\u003eCuong Nguyen Ngoc\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAAuiY5BtkZG3pYkXHRzIj2czHodeeec-Q5vkYW0iwZ-rYfzNYzgrxcrovegiFodrFv4Luk7hp6uxjKZctR_viHz_tIkM4QzV4f4ipnmCKrogfylxrI-9A7MdqpZWE1RG3xEhA5RF9AWAeGlDw7RMvc6hn1GhQJLkTY-DOycpMAflAiKqruHZVNuA",
+               "width":5312
+            }
+         ],
+         "place_id":"ChIJGVf5wm-rNTERHeoEr9iCOpg",
+         "plus_code":{
+            "compound_code":"2RC8+V6 Thành Công, Ba Đình, Hà Nội",
+            "global_code":"7PH72RC8+V6"
+         },
+         "rating":3.9,
+         "reference":"ChIJGVf5wm-rNTERHeoEr9iCOpg",
+         "scope":"GOOGLE",
+         "types":[
+            "police",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":8,
+         "vicinity":"7 Thành Công"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":21.0485112,
+               "lng":105.7791845
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":21.04981817989272,
+                  "lng":105.7805346298927
+               },
+               "southwest":{
+                  "lat":21.04711852010728,
+                  "lng":105.7778349701073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id":"e8654edc2debded0911f37f264fcd9d8c04d8609",
+         "name":"Cơ Quan Cảnh Sát Điều Tra (C46) Bộ Công An",
+         "photos":[
+            {
+               "height":658,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109009442164467691851\"\u003eGiang Nguyen Duc\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAATfq5oW2ucNbXoSl_yEyXqJthU_KmuK6uw9qY4D1qPNFgPAwI-MBJohbIlee6CEPrdanSif_6bWRffeDyHWqbv9CKFbnAjlsTDr0ktCVUqLtIaJzMFFqNMZAizP9cRVyIEhC1dSiUpMxZH7uhPgY8P6x5GhQ6jpwlVA3yYVJfnD56ZulOaEEJ0w",
+               "width":1214
+            }
+         ],
+         "place_id":"ChIJTeRp1suqNTERnOYnpQnH5Tg",
+         "plus_code":{
+            "compound_code":"2QXH+CM Mai Dịch, Cầu Giấy, Hà Nội",
+            "global_code":"7PH72QXH+CM"
+         },
+         "rating":3.8,
+         "reference":"ChIJTeRp1suqNTERnOYnpQnH5Tg",
+         "scope":"GOOGLE",
+         "types":[
+            "police",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":17,
+         "vicinity":"47 Phạm Văn Đồng"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":21.0173398,
+               "lng":106.2024052
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":21.01882097989272,
+                  "lng":106.2038380798927
+               },
+               "southwest":{
+                  "lat":21.01612132010727,
+                  "lng":106.2011384201073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id":"a22c728af8ffc12f228afae10fc50da4d7b26d18",
+         "name":"Công An Huyện Lương Tài",
+         "place_id":"ChIJ4fwtUQCfNTERjTBAkPpCy78",
+         "plus_code":{
+            "compound_code":"2682+WX TT. Thứa, Lương Tài, Bắc Ninh",
+            "global_code":"7PH82682+WX"
+         },
+         "rating":4.2,
+         "reference":"ChIJ4fwtUQCfNTERjTBAkPpCy78",
+         "scope":"GOOGLE",
+         "types":[
+            "police",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":5,
+         "vicinity":"ĐT280"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":21.022697,
+               "lng":105.846319
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":21.02404157989272,
+                  "lng":105.8476665798927
+               },
+               "southwest":{
+                  "lat":21.02134192010728,
+                  "lng":105.8449669201073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id":"5df5149bfc59b61b91c0316161f3f610eb4e7d9f",
+         "name":"Trụ Sở Công An TP Hà Nội",
+         "photos":[
+            {
+               "height":3000,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104004153763398429567\"\u003eRanjith Asoka\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAAmjC_V6xSGmkbVUL1VMkVo4eP1C6_2wcjwTMs8i9U7MwmP4VVgg4lfna5jzNjmLngwbrYYbwgHEKheVwTyuM5GReVvzZr-u3OBO4-cCq__SUgSZKaN6j8-7ovCggR0eQ9EhADSNwER7Nol_P60RClS7aMGhQSlhrc6NjHenUYc2hdYvvzgS4Kgg",
+               "width":4000
+            }
+         ],
+         "place_id":"ChIJrROofpGrNTERGY_CqK8b_Qw",
+         "plus_code":{
+            "compound_code":"2RFW+3G Trần Hưng Đạo, Hoàn Kiếm, Hà Nội",
+            "global_code":"7PH72RFW+3G"
+         },
+         "rating":3.5,
+         "reference":"ChIJrROofpGrNTERGY_CqK8b_Qw",
+         "scope":"GOOGLE",
+         "types":[
+            "police",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":8,
+         "vicinity":"87 Trần Hưng Đạo"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":21.140833,
+               "lng":105.8462309
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":21.14232012989272,
+                  "lng":105.8476202298927
+               },
+               "southwest":{
+                  "lat":21.13962047010727,
+                  "lng":105.8449205701073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id":"a03d8c8fcafc77ddf257df14b94047da31de4bfd",
+         "name":"Công an huyện Đông Anh",
+         "photos":[
+            {
+               "height":3120,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114178269978476708348\"\u003eNam Trinh\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAAy-RivfqNB_gI5HBqPJTdcrkO6j9nnryGEOJWMjp127TbcSFw51LB7TsG4Ae8auq58f1UWUHc8evEPlh5ka45of-cVtdwuVQVxuriab-p8bg1umaldzyl7Pnq2ekBpUdwEhCVlgokayaAAcgIX2OwKYggGhTSs4UHwqy8xps0LJphhlGpiLqb2A",
+               "width":4160
+            }
+         ],
+         "place_id":"ChIJ6XLyBuQANTERkH55D03h6Xg",
+         "plus_code":{
+            "compound_code":"4RRW+8F Đông Anh, Hà Nội",
+            "global_code":"7PH74RRW+8F"
+         },
+         "rating":3.9,
+         "reference":"ChIJ6XLyBuQANTERkH55D03h6Xg",
+         "scope":"GOOGLE",
+         "types":[
+            "police",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":15,
+         "vicinity":"Đông Anh, Hà Nội, Việt Nam"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":20.9043916,
+               "lng":106.155433
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":20.90572327989272,
+                  "lng":106.1567695798927
+               },
+               "southwest":{
+                  "lat":20.90302362010728,
+                  "lng":106.1540699201073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id":"11c2d6909bf41b1c66a37b6f3e1fcbbd816ed3f3",
+         "name":"Công An Huyện Bình Giang",
+         "photos":[
+            {
+               "height":3456,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112351120603211100951\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAA6KZ4JqNYhz7Fpuyx447N4rcOuBXMgbcaUdzmK0rznFQFn4E_DhWSiqQWGwV4H7jwC8o-8BV8Q8OE5Ygr6_ePsq-7aSLbcnFZ5k6VGg1ySrJmWfrUeJF96bk8Z3OuU4LnEhDN75aqmBvF7IJ6VuRkepvvGhRe8405fUgbxaX92fqIGHvEJL1jLQ",
+               "width":4608
+            }
+         ],
+         "place_id":"ChIJc24f3qCiNTER8t5Cb3gEJOg",
+         "plus_code":{
+            "compound_code":"W534+Q5 Tráng Liệt, Bình Giang, Hải Dương",
+            "global_code":"7PG8W534+Q5"
+         },
+         "rating":4.3,
+         "reference":"ChIJc24f3qCiNTER8t5Cb3gEJOg",
+         "scope":"GOOGLE",
+         "types":[
+            "police",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":3,
+         "vicinity":"Thống Nhất"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":21.0261377,
+               "lng":105.8514569
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":21.02754852989272,
+                  "lng":105.8524804798927
+               },
+               "southwest":{
+                  "lat":21.02484887010728,
+                  "lng":105.8497808201073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id":"904edc92fcc1a9a84568bce86d1b362203286539",
+         "name":"Công an Quận Hoàn Kiếm",
+         "photos":[
+            {
+               "height":1066,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117675652309512499666\"\u003ekhoi tranduc\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAAqAR9AtMSp0m7KmKdwqAEzCXCdduCYcSJ0ay3aC1cmB302Ws2YzI2iALc8tdlRWHIjc6r-eU-DFUv-ebxND6YrSOfFgPdq5ww49QSK5EyKj6PXQ6EA4g9uu7EH6y7Sj9HEhB0UEWGiiZOcaPwkzYIxQWfGhQ8o6lkFe95odv9OOQQagWeF_cUFw",
+               "width":1600
+            }
+         ],
+         "place_id":"ChIJDz0rlZSrNTERHlm8_bkD-TM",
+         "plus_code":{
+            "compound_code":"2VG2+FH Hàng Trống, Hoàn Kiếm, Hà Nội",
+            "global_code":"7PH72VG2+FH"
+         },
+         "rating":4,
+         "reference":"ChIJDz0rlZSrNTERHlm8_bkD-TM",
+         "scope":"GOOGLE",
+         "types":[
+            "police",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":49,
+         "vicinity":"2 Tràng Thi"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":20.7822964,
+               "lng":106.2448955
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":20.78368272989272,
+                  "lng":106.2461772798927
+               },
+               "southwest":{
+                  "lat":20.78098307010728,
+                  "lng":106.2434776201073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id":"72182f2b8d15a466a7f249915588f29578b05b19",
+         "name":"Công An Huyện Thanh Miện",
+         "photos":[
+            {
+               "height":3264,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115421961155185740024\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAAXbp8jWqH9xd4CJlUWvLU8TBH6XskxDiU_OjOSn31ugsiqRYQ_blLqV52pacTZ9gZIWZw9J3HPEXMmliRM_g1HWjxxDGntsvjhAsS1JRwSnPbduj8MTmXerYFIpnEmyYPEhCMyclgwYnD3ANQbnCrosOmGhSCAu52L6lg1QEjO4t-gpaNZF5DyQ",
+               "width":2448
+            }
+         ],
+         "place_id":"ChIJ61iEOAKUNTERqlH4vs7suaU",
+         "plus_code":{
+            "compound_code":"Q6JV+WX Tứ Cường, Thanh Miện, Hải Dương",
+            "global_code":"7PG8Q6JV+WX"
+         },
+         "rating":4.7,
+         "reference":"ChIJ61iEOAKUNTERqlH4vs7suaU",
+         "scope":"GOOGLE",
+         "types":[
+            "police",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":6,
+         "vicinity":"Nguyễn Lương Bằng"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":21.2768019,
+               "lng":106.1970462
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":21.27815002989272,
+                  "lng":106.1986522798927
+               },
+               "southwest":{
+                  "lat":21.27545037010728,
+                  "lng":106.1959526201073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id":"d893d361f07b2c24f1f5d91f3665320d51e36c29",
+         "name":"Công an tỉnh Bắc Giang",
+         "photos":[
+            {
+               "height":3000,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106162769470160467280\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAABeTsNeolpKsHrOveQc7wz6oCrQ7WrSeNKuztJM3jQTI4_yiXa1RR57vrKpnvNTj43Gpzclv3EulqljI-1cyxtzH8Flf4TUwMB671GgykD2lbSJod1jg1BaXdyTpj5iJqEhBdpqPCoZ2JiHV5ik2kv2O-GhR8ey5CK3E_PQKzWQQVkkmoInCLzQ",
+               "width":4000
+            }
+         ],
+         "place_id":"ChIJiTRBzQxtNTERu4QLDU2Swj0",
+         "plus_code":{
+            "compound_code":"75GW+PR Phường Ngô Quyền, Bắc Giang",
+            "global_code":"7PH875GW+PR"
+         },
+         "rating":4.1,
+         "reference":"ChIJiTRBzQxtNTERu4QLDU2Swj0",
+         "scope":"GOOGLE",
+         "types":[
+            "police",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":30,
+         "vicinity":"1A Nguyễn Cao"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":20.6652759,
+               "lng":106.0565243
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":20.66655267989272,
+                  "lng":106.0578695298927
+               },
+               "southwest":{
+                  "lat":20.66385302010728,
+                  "lng":106.0551698701073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id":"5fa0413bb741dc96c3f30bc0a5f520062f5cd602",
+         "name":"Công an tỉnh Hưng Yên",
+         "photos":[
+            {
+               "height":3024,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110910741541097143307\"\u003edung nguyen huu\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAAJy25YJISfI3XjgzBBuFHD7n7T4aPme5w8UwvQ98n6ABM5o5UQtWErwVy5KTtZw1278ghUzebgcYL_Oq2rhZ5xuGr_1p0vpISmXF7VClN78Sx_223Bcu0oNLUrKFY1a2ZEhB4jpGAJvVxRQ7r73nDsG3cGhT5OKqOoviMZD2eQ1SyEEFS4FCG0g",
+               "width":4032
+            }
+         ],
+         "place_id":"ChIJY2IdvynHNTER1ptZBR-mGNU",
+         "plus_code":{
+            "compound_code":"M384+4J P. Hiền Nam, Hưng Yên",
+            "global_code":"7PG8M384+4J"
+         },
+         "rating":4.2,
+         "reference":"ChIJY2IdvynHNTER1ptZBR-mGNU",
+         "scope":"GOOGLE",
+         "types":[
+            "police",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":13,
+         "vicinity":"Hải Thượng Lãn Ông"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":20.9928803,
+               "lng":105.8146738
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":20.99422272989272,
+                  "lng":105.8160554798927
+               },
+               "southwest":{
+                  "lat":20.99152307010728,
+                  "lng":105.8133558201073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id":"48159d196d9aafa80063eb9d4179494e2972be03",
+         "name":"Công An Phường Khương Đình",
+         "opening_hours":{
+            "open_now":true
+         },
+         "photos":[
+            {
+               "height":3120,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114178269978476708348\"\u003eNam Trinh\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAAMR2awL9EjMuo3JM6FS_wS5doq8GcAe1XgYFrHS9zfpzeUVaoWaFpflzS0wxk2_BrwHP3Wz5NHMUG7KVJCgQc6e1CzFUNttkY_hYweMVwqS5sAhbah6xf5MBuQz2QRiKIEhAWcvs7ug68jXODrtiZb6GkGhSNtUy-ouYsKfzbn215UTywFi3TBQ",
+               "width":4160
+            }
+         ],
+         "place_id":"ChIJSx2WLZKsNTERnnxPYFOIS-s",
+         "plus_code":{
+            "compound_code":"XRV7+5V Khương Đình, Thanh Xuân, Hà Nội",
+            "global_code":"7PG7XRV7+5V"
+         },
+         "rating":3.1,
+         "reference":"ChIJSx2WLZKsNTERnnxPYFOIS-s",
+         "scope":"GOOGLE",
+         "types":[
+            "police",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":17,
+         "vicinity":"số 20 Phố Khương Trung"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":20.9116937,
+               "lng":105.8538432
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":20.91292352989272,
+                  "lng":105.8551732298927
+               },
+               "southwest":{
+                  "lat":20.91022387010727,
+                  "lng":105.8524735701073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id":"4e435d94557e545b3fa92308174e79915c88adc6",
+         "name":"Công An Huyện Thanh Trì",
+         "photos":[
+            {
+               "height":4128,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108205486378088550569\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAA3uOTlQDLZpwVOTsHWnsUeJWifqxwDLd2JEev-wdS45WGNMvqbRFW-l_TTbs1EYYZgkXk0iuRWO87HmLwsoIrcTlD1nce-qXu7xerZU6frTz5jov5Yyo6dyJBVyxWhn5iEhD_8RHAbigglHInga0o8oMmGhQ-DJTooLuTHi1yt-5zDG-vvO8B8Q",
+               "width":3096
+            }
+         ],
+         "place_id":"ChIJMeUP2AqyNTERm1tpneldBHs",
+         "plus_code":{
+            "compound_code":"WV63+MG Liên Ninh, Thanh Trì, Hà Nội",
+            "global_code":"7PG7WV63+MG"
+         },
+         "rating":3.9,
+         "reference":"ChIJMeUP2AqyNTERm1tpneldBHs",
+         "scope":"GOOGLE",
+         "types":[
+            "police",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":7,
+         "vicinity":"Đường Không Tên"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":21.0273479,
+               "lng":105.799755
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":21.02877407989272,
+                  "lng":105.8010132798927
+               },
+               "southwest":{
+                  "lat":21.02607442010727,
+                  "lng":105.7983136201073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id":"8d723e1d206cc8a61b305e44271eec262b380128",
+         "name":"Công An phường Láng Thượng",
+         "photos":[
+            {
+               "height":1836,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114778904432111406670\"\u003eViet Long Nguyen\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAAyzBWguxeB-GZaquKzM9Rcaq9ZSkngKq28O9X2sGiiDge7Gi-kzaORWcR97tYcp1XZsxWPmUkD_EKp_GnFJpY1DkVgwqU3GofCeHJY_9yyFfrTLJlgVZxZZ7vlLi_y5wPEhBL0mu7TIpvWqHMrsq_fTTnGhRdpnbZf4znTdlmLnnD0F2JqukrXg",
+               "width":3264
+            }
+         ],
+         "place_id":"ChIJlWaO7kOrNTERisg7ABBSEaY",
+         "plus_code":{
+            "compound_code":"2QGX+WW Yên Hoà, Cầu Giấy, Hà Nội",
+            "global_code":"7PH72QGX+WW"
+         },
+         "rating":3.7,
+         "reference":"ChIJlWaO7kOrNTERisg7ABBSEaY",
+         "scope":"GOOGLE",
+         "types":[
+            "police",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":7,
+         "vicinity":"1180 Đ. Láng"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":21.0251673,
+               "lng":105.8575007
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":21.02643812989272,
+                  "lng":105.8589469798927
+               },
+               "southwest":{
+                  "lat":21.02373847010728,
+                  "lng":105.8562473201073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id":"fb5d71049e3afec0481b6310707e715fd96912c8",
+         "name":"Công An Phường Tràng Tiền",
+         "place_id":"ChIJiaCS8-urNTERm6hO8s8zXs4",
+         "plus_code":{
+            "compound_code":"2VG5+32 Tràng Tiền, Hoàn Kiếm, Hà Nội",
+            "global_code":"7PH72VG5+32"
+         },
+         "rating":4,
+         "reference":"ChIJiaCS8-urNTERm6hO8s8zXs4",
+         "scope":"GOOGLE",
+         "types":[
+            "police",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":2,
+         "vicinity":"2 Cổ Tân"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":20.7340163,
+               "lng":106.0559342
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":20.73523917989272,
+                  "lng":106.0572591298927
+               },
+               "southwest":{
+                  "lat":20.73253952010728,
+                  "lng":106.0545594701073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id":"16a0869a1140cce92d4eaed1cb58c4b6fd77d709",
+         "name":"Công An Huyện Kim Động",
+         "photos":[
+            {
+               "height":4032,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112276446139343522032\"\u003etrong toan le\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAAiQhZwjq045bkyKJJYveGedLekDsnJ_VWkiX_q484lFplSvHBjJjfhmTidC8RBtluZhirihje62FMOOyZvHk3XZ1Poh6NRTyUhoDKCAGVheqeAsYvH6dFzEV7itRl1uHfEhBKxN3cdLNHFbcn7K-dbJP5GhRI7RTM6luHNL5F1IWGBC4O7bx5qw",
+               "width":3024
+            }
+         ],
+         "place_id":"ChIJy8r-g864NTERZ3vssDrOlc0",
+         "plus_code":{
+            "compound_code":"P3M4+J9 Lương Bằng, Kim Động, Hưng Yên",
+            "global_code":"7PG8P3M4+J9"
+         },
+         "rating":4.5,
+         "reference":"ChIJy8r-g864NTERZ3vssDrOlc0",
+         "scope":"GOOGLE",
+         "types":[
+            "police",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":4,
+         "vicinity":"Thị Trấn Lương Bằng, Huyện Kim Động"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":21.0197147,
+               "lng":105.8489708
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":21.02110372989272,
+                  "lng":105.8503344798927
+               },
+               "southwest":{
+                  "lat":21.01840407010727,
+                  "lng":105.8476348201073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id":"52d219fc0d33d084339c2744323eb8c97b91ac97",
+         "name":"Công an phường Trần Hưng Đạo",
+         "photos":[
+            {
+               "height":4160,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116432460579881702567\"\u003eLe Dong PHUONG\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAAC-mZk5O6ghmCPgDVPTxzqoOcUpVjITzPYp61eIoBFgdEGF5bZK7kLR1SZ0zT07OX8YMnANIM2S9keBbHQotTSx7fWqJ_j8S3sZTVOHGHdYKBvaLmOAFop5HqH0u7KLDEEhAgfPWvdqMw8Cxqej_0fdY0GhTF7XiKFiWHwbswESeRel1SSRghbQ",
+               "width":3120
+            }
+         ],
+         "place_id":"ChIJhed6cJKrNTERXTJEVapEqp8",
+         "plus_code":{
+            "compound_code":"2R9X+VH Trần Hưng Đạo, Hoàn Kiếm, Hà Nội",
+            "global_code":"7PH72R9X+VH"
+         },
+         "rating":5,
+         "reference":"ChIJhed6cJKrNTERXTJEVapEqp8",
+         "scope":"GOOGLE",
+         "types":[
+            "police",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":1,
+         "vicinity":"43 Trần Quốc Toản"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":21.0355791,
+               "lng":105.7786315
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":21.03692967989272,
+                  "lng":105.7800838798927
+               },
+               "southwest":{
+                  "lat":21.03423002010728,
+                  "lng":105.7773842201073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id":"5d2e8fc758359c456daf9a64830dd1857ead4dcc",
+         "name":"Công An Phường Mai Dịch",
+         "photos":[
+            {
+               "height":1152,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102338088204511534386\"\u003eDANG VAN SAC\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAABefvbP6QTnfQxYa8NFkvpYDUk6r4VdBdqfm9DRQqHhHeBM0eVRFQTy20zubEiwlGAFOh48DTllfMz7OpqHqcpFRg46tEdMsgYI1bVMXZE1edZVU6vdTK0Ef5pcaQ8DSyEhDSQTO_fEdJ7KqvS-ELnuPZGhTCsmApaKEH1j7m7UL1X5SfYuU9OQ",
+               "width":2048
+            }
+         ],
+         "place_id":"ChIJd76Jn7VUNDERPA5wOtQAzew",
+         "plus_code":{
+            "compound_code":"2QPH+6F Mai Dịch, Cầu Giấy, Hà Nội",
+            "global_code":"7PH72QPH+6F"
+         },
+         "rating":4.2,
+         "reference":"ChIJd76Jn7VUNDERPA5wOtQAzew",
+         "scope":"GOOGLE",
+         "types":[
+            "police",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":10,
+         "vicinity":"20 Trần Bình"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":20.9372181,
+               "lng":105.849917
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":20.93866947989272,
+                  "lng":105.8515431798927
+               },
+               "southwest":{
+                  "lat":20.93596982010728,
+                  "lng":105.8488435201073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id":"b5941ff703075bb9fbdff80069441044d18d6a6c",
+         "name":"Công An Huyện Thanh Trì",
+         "opening_hours":{
+            "open_now":true
+         },
+         "photos":[
+            {
+               "height":680,
+               "html_attributions":[
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114515364192147827634\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference":"CmRaAAAA2OUUdIFB0HxOXEepzmO70N3PDspCySdWAK4KTouHYzA291z0BflzjnpdWALX0QvWyzl_Ra_hvl-Ju1UqjqAph417TJrPA2Z6r3hbEfju9bFgl3efkTJwhwvyM7peHe8HEhCQBMHbcyofIFofg1k99vXLGhR5v-3VOIbERSO095t8Hs-dUpE8Ew",
+               "width":1024
+            }
+         ],
+         "place_id":"ChIJfyIoc5WtNTERmoIB1oWahHQ",
+         "plus_code":{
+            "compound_code":"WRPX+VX Tứ Hiệp, Thanh Trì, Hà Nội",
+            "global_code":"7PG7WRPX+VX"
+         },
+         "rating":3.5,
+         "reference":"ChIJfyIoc5WtNTERmoIB1oWahHQ",
+         "scope":"GOOGLE",
+         "types":[
+            "police",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":29,
+         "vicinity":"Tứ Hiệp, Thanh Trì, Hà Nội, Việt Nam"
+      },
+      {
+         "business_status":"OPERATIONAL",
+         "geometry":{
+            "location":{
+               "lat":21.1094868,
+               "lng":105.9463066
+            },
+            "viewport":{
+               "northeast":{
+                  "lat":21.11073807989272,
+                  "lng":105.9477253298927
+               },
+               "southwest":{
+                  "lat":21.10803842010728,
+                  "lng":105.9450256701073
+               }
+            }
+         },
+         "icon":"https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id":"329db3d528f7a4ea459310fd2a6bacb242323faa",
+         "name":"Công an phường Đình Bảng",
+         "place_id":"ChIJKXuAtJQHNTERXJklDK9uJ7Y",
+         "plus_code":{
+            "compound_code":"4W5W+QG Đình Bảng, Từ Sơn, Bắc Ninh",
+            "global_code":"7PH74W5W+QG"
+         },
+         "rating":5,
+         "reference":"ChIJKXuAtJQHNTERXJklDK9uJ7Y",
+         "scope":"GOOGLE",
+         "types":[
+            "police",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total":1,
+         "vicinity":"Lý Khánh Văn"
+      }
+   ]
+   

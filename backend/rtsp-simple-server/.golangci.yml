@@ -1,0 +1,14 @@
+
+linters:
+  enable:
+  - gocritic
+  - gofmt
+  - golint
+  - misspell
+  - prealloc
+  - unconvert
+  disable:
+  - errcheck
+
+issues:
+  exclude-use-default: false

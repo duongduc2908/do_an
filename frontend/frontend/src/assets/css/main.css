@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.w-popup {
+  width: 480px;
+}
+
+.w-popup-place {
+  width: 480px;
+}
+
+.w-popup-cam {
+  width: 480px;
+}
+
+.h-popup-cam {
+  height: 280px;
+}
+
+.w-sidebar {
+  width: 400px;
+}

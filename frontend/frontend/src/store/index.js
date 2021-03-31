@@ -10,7 +10,7 @@ import { v4 as uuidv4 } from 'uuid'
 
 Vue.use(Vuex)
 
-const BASE_URL = 'http://27.72.147.222:8888/api/v1'
+const BASE_URL = 'localhost:4321/api/v1'
 
 const getMarkerImage = (type) => {
   switch (type) {
@@ -339,7 +339,7 @@ export default new Vuex.Store({
     async activateCamera (context, payload) {
       context.commit('setCameraActivated', payload)
       try {
-        await axios.get(`http://27.72.147.222:8888/api/stream/connection_api/connect?place_id=${payload.placeId}&camera_id=${payload.cameraId}&rtsp_link=${payload.rtspLink}&username&password&selectedProtocol=1`)
+        await axios.get(`localhost:4321/api/stream/connection_api/connect?place_id=${payload.placeId}&camera_id=${payload.cameraId}&rtsp_link=${payload.rtspLink}&username&password&selectedProtocol=1`)
       } catch (error) {
         console.error(error)
       }
@@ -348,7 +348,7 @@ export default new Vuex.Store({
     async deactivateCamera (context, payload) {
       context.commit('setCameraDeactivated', payload)
       try {
-        await axios.get(`http://27.72.147.222:8888/api/stream/connection_api/disconnect?place_id=${payload.placeId}&camera_id=${payload.cameraId}`)
+        await axios.get(`localhost:4321/api/stream/connection_api/disconnect?place_id=${payload.placeId}&camera_id=${payload.cameraId}`)
       } catch (error) {
         console.error(error)
       }

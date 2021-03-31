@@ -107,7 +107,7 @@ import MapsPicker from '@/components/MapsPicker.vue'
 import CameraModal from '@/components/manage/CameraModal.vue'
 import CameraPlusIcon from 'vue-material-design-icons/CameraPlus'
 
-const BASE_URL = 'http://27.72.147.222:8888/api/v1'
+const BASE_URL = 'localhost:4321/api/v1'
 
 export default {
   components: {

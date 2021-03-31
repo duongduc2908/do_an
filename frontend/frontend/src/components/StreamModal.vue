@@ -47,7 +47,7 @@ export default {
 
   async mounted () {
     // try {
-    //   await axios.get(`http://27.72.147.222:8888/api/stream/connection_api/connect?place_id=${this.place._id}&camera_id=${this.camera.camera_id}&rtsp_link=/media/server/A6F2-8B3D/CodeChuan/Core_Python_Flask/video1.mp4&username&password&selectedProtocol=1`)
+    //   await axios.get(`localhost:4321/api/stream/connection_api/connect?place_id=${this.place._id}&camera_id=${this.camera.camera_id}&rtsp_link=/media/server/A6F2-8B3D/CodeChuan/Core_Python_Flask/video1.mp4&username&password&selectedProtocol=1`)
     // } catch (error) {
     //   console.error(error)
     // }
@@ -57,7 +57,7 @@ export default {
     // const socket = io('http://27.72.147.222:8888')
     //
     // setTimeout(async () => {
-    //   await axios.get(`http://27.72.147.222:8888/api/stream/connection_api/disconnect?place_id=${this.place._id}&camera_id=${this.camera.camera_id}`)
+    //   await axios.get(`localhost:4321/api/stream/connection_api/disconnect?place_id=${this.place._id}&camera_id=${this.camera.camera_id}`)
     //   socket.emit('disconnect')
     // }, 10000)
     //

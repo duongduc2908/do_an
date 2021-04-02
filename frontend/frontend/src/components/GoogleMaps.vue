@@ -113,7 +113,7 @@ export default {
 
   methods: {
     startSocket () {
-      const socket = io('http://27.72.147.222:8888')
+      const socket = io('http://localhost:4321')
 
       const func = throttle((obj) => {
         const bytes = new Uint8Array(obj.buffer)

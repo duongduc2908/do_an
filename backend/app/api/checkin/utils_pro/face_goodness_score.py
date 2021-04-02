@@ -15,13 +15,21 @@ def angle_score(landmarks):
         y2 = points[4][1]
         xi = ((x1*y2-y1*x2)*(x3-x4) - (x1-x2)*(x3*y4-y3*x4))/((x1-x2)*(y3-y4)-(y1-y2)*(x3-x4))
         yi = ((x1*y2-y1*x2)*(y3-y4) - (y1-y2)*(x3*y4-y3*x4))/((x1-x2)*(y3-y4)-(y1-y2)*(x3-x4))
-        if (xi-x_nose)>0.05:
-            if xi < x_nose :
-                ret.append("TRAI")
-            if xi > x_nose:
-                ret.append("PHAI")
+        if abs(xi-x_nose)>20:
+            if  x_nose -xi >20:
+                ret.append("LEFT")
+            elif xi - x_nose > 20:
+                ret.append("RIGHT")
+            else: ret.append("")
         else:
-            ret.append("GIUA")
+            if abs(yi - y_nose)>5:
+                if  y_nose -yi >5:
+                    ret.append("BOTTOM")
+                elif yi - y_nose > 20:
+                    ret.append("UP")
+                else: ret.append("CENTER")
+            else:
+                ret.append("CENTER")
     return ret
 
 

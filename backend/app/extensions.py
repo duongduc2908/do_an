@@ -91,8 +91,8 @@ def save_frame_to_redis(red, data, name):
 
 
 def set_key(red,data):
-    red.mset({cf.FLAG_REDIS_KEY:data})
-    return
+    red.set(cf.FLAG_REDIS_KEY,data)
+    return 
 
 
 def load_frame_from_redis(red, name):

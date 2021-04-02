@@ -23,6 +23,7 @@ for files in dirs:
 	l=name[-1]
 	image = imageio.imread(file_name)
 	prev = time.time()
+	print(image.shape)
 	bbs, points = detect_face(image)
 	print("Detect time: ", time.time() - prev)
 	for bb, point in zip(bbs, points):

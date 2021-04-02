@@ -4,8 +4,9 @@ import os
 from subprocess import Popen
 from app.config import DroneDetectionConfig as cf
 import time
+from app.utils import send_result, send_error
+from app.extensions import set_key,red
 import logging
-from app.extensions import red,set_key
 
 logging.basicConfig(format=cf.LOGGING_FORMAT, datefmt=cf.LOGGING_DATEFMT, level=cf.LOGGING_LEVEL)
 
@@ -61,7 +62,7 @@ def check_connect():
     if not _is_rtsp_daemon_running():
         try:
             my_env = os.environ.copy()
-            my_env['PYTHONPATH'] ="/home/bigdata/Documents/backend/"
+            my_env['PYTHONPATH'] ="/home/bigdata/Documents/do_an/backend/"
             protocol_id = params["protocol_id"]
             if protocol_id == 1:  # RTSP/TCP
                 link = _form_rtsp_link(params)
@@ -71,7 +72,7 @@ def check_connect():
                 compeleted_process = subprocess.run(['python', 'app/api/stream/rtsp_tcp_daemon.py', '--link', link, '--mode', '1'],env=my_env         )
                 if compeleted_process.returncode:
                     logging.info("FAIL to connect to RTSP/TCP camera at {}".format(link))
-                    return response_fail, 400
+                    return send_error(data=response_fail ,code=400)
                 _run_daemon(['python', 'app/api/stream/rtsp_tcp_daemon.py', '--link', link, '--mode', '0'], my_env)
 
             elif protocol_id == 3:  # RTSP/UDP
@@ -114,13 +115,13 @@ def check_connect():
                 _run_daemon(['python', 'rtp_sdp_daemon.py', '--filename', SDP_FILENAME, '--mode', '0'], my_env)
             else:
                 logging.info("FAIL Not supported protocol")
-                return response_fail, 400
-            return response_true, 200
+                return send_error(data=response_fail ,code=400)
+            return send_result(data=response_true,code=200)
         except Exception as e:
             logging.exception("Neglect connection.")
-            return response_fail, 400
+            return send_error(data=response_fail ,code=400)
     logging.info("FAIL to connect because another camera connection existed, please disconnect it and retry.")
-    return response_fail, 400
+    return send_error(data=response_fail ,code=400)
 
 
 @api.route('/disconnect', methods=['GET'])
@@ -132,14 +133,23 @@ def disconnect():
     logging.info("Disconnect to camera.")
     if RUN_RTSP_DAEMON_PROCESS is not None:
         _stop_rtsp_daemon()
-    return response_true, 200
+    return send_result(data=response_true,code=200)
 
 
 @api.route('/begin_train',methods=['GET'])
 def begin_train():
-    set_key(red,data="TRAIN")
+    set_key(red,"TRAIN")
+    response_true = {
+        'status': True,
+        'msg': "Disconnect rtsp link successfully"
+    }
+    return send_result(data=response_true,code=200)
 
 
 @api.route('/train_new',methods=['POST'])
 def train_new():
-    return True
+    response_true = {
+        'status': True,
+        'msg': "Disconnect rtsp link successfully"
+    }
+    return response_true

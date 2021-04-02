@@ -1,10 +1,9 @@
 import paho.mqtt.client as mqttClient
 import time
 import cv2
-from app.extensions import stack_frames, red
 from app.config import DroneDetectionConfig as cf
 from app.extensions import save_stack_to_redis, \
-                save_frame_to_redis, set_key
+                save_frame_to_redis, set_key,stack_frames,red
 from datetime import datetime
 import json
 import threading
@@ -64,7 +63,6 @@ def process_frame(frame,mode):
 
     # frame_payload = json.dumps({"timestamp": now})
     # pubsub_client.publish(cf.UPDATE_FRAME_TOPIC, frame_payload)
-    set_key(red,data="")
 PUBSUB_CONNECTED = False   # global variable for the state of the connection
 
 
@@ -99,7 +97,7 @@ if __name__ == '__main__':
             while not success:
                 vcap = cv2.VideoCapture(link)
                 success, frame = vcap.read()
-                logging.info("image input shape: {}".format(frame.shape))
+                #logging.info("image input shape: {}".format(frame.shape))
                 if success:
                     sys.exit(0)
                 i = i + 1
@@ -111,6 +109,7 @@ if __name__ == '__main__':
             sys.exit(1)
     # Mode run
     if args.mode == 0:
+        set_key(red,data="TEST")
         logging.info("Create connection to camera using {}.".format(link))
         try:
             success = False
@@ -120,7 +119,7 @@ if __name__ == '__main__':
                 vcap = cv2.VideoCapture(link)
                 preframe_tm = time.time()
                 success, frame = vcap.read()
-                logging.info("image input shape: {}".format(frame.shape))
+                #logging.info("image input shape: {}".format(frame.shape))
                 i = i + 1
                 if i > TRIAL_CONNECTION_NUM:
                     success = True
@@ -128,7 +127,7 @@ if __name__ == '__main__':
                 # Read frame
                 success, frame = vcap.read()
                 elapsed_time = time.time() - preframe_tm
-                if elapsed_time < 1000:
+                if elapsed_time < 0.1:
                     continue
                 preframe_tm = time.time()
                 if success:

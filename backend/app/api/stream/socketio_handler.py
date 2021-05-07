@@ -1,6 +1,8 @@
 import paho.mqtt.client as mqtt
 import socketio
 from datetime import datetime
+import sys
+sys.path.append("/home/ducdv10/Documents/do_an/backend/")
 import json
 from app.config import DroneDetectionConfig as cf
 from app.extensions import load_bytes_from_redis, load_frame_from_redis
@@ -12,7 +14,7 @@ logging.basicConfig(format=cf.LOGGING_FORMAT, datefmt=cf.LOGGING_DATEFMT, level=
 LAST_SEND = 0
 
 sio = socketio.Client()
-sio.connect('http://localhost:4321', namespaces=["/test"])
+sio.connect('http://localhost:4321')
 logging.info("Connected socket.io SID is {}".format(sio.sid))
 
 
@@ -137,8 +139,7 @@ def send_frame(client, userdata, msg):
 
     detection = AI.extrapolate(frame_timestamp)
     try:
-        sio.emit('new_frame_event', {'frame': cf.NEW_FRAME_REDIS_KEY, 'detection': detection, 'room': ""},
-                 namespace="/test")
+        sio.emit('new_frame_event', {'frame': cf.NEW_FRAME_REDIS_KEY, 'detection': detection, 'room': ""})
         LAST_SEND = datetime.now().timestamp()
     except Exception as e:
         pass

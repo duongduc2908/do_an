@@ -1,6 +1,8 @@
 import paho.mqtt.client as mqttClient
 import time
 import cv2
+import sys
+sys.path.append("/home/ducdv10/Documents/do_an/backend/")
 from app.config import DroneDetectionConfig as cf
 from app.extensions import save_stack_to_redis, \
                 save_frame_to_redis, set_key,stack_frames,red
@@ -61,8 +63,8 @@ def process_frame(frame,mode):
     stack_payload = json.dumps({"timestamp": now})
     pubsub_client.publish(cf.UPDATE_STACK_TOPIC, stack_payload)
 
-    # frame_payload = json.dumps({"timestamp": now})
-    # pubsub_client.publish(cf.UPDATE_FRAME_TOPIC, frame_payload)
+    frame_payload = json.dumps({"timestamp": now})
+    pubsub_client.publish(cf.UPDATE_FRAME_TOPIC, frame_payload)
 PUBSUB_CONNECTED = False   # global variable for the state of the connection
 
 

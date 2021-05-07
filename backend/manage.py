@@ -10,6 +10,4 @@ app = create_app(config_object=CONFIG)
 
 if __name__ == '__main__':
     socketio.run(app,host='localhost', debug=False, port=4321)
-    # socketio.run(app, debug=False, port=4321)
-    # app.run(host='0.0.0.0', port=5000, threaded=True, use_reloader=True)
 

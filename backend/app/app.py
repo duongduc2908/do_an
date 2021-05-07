@@ -113,47 +113,48 @@ def register_blueprints(app):
     app.register_blueprint(api_v1.employee.api, url_prefix='/api/v1/employee')
 
 
-@socketio.on('new_frame_event', namespace='/test')
-def send_new_frame(message):
-    # global fake_detection
-    # Message interface includes three keys: frame, detection, room.
-    session['receive_count'] = session.get('receive_count', 0) + 1
-    room = message['room']
-
-    detection = message['detection']
-    # detection = fake_detection
-
-    frame_key = message['frame']
-    frame_dict = load_frame_from_redis(red, frame_key)
-    image_data = frame_dict["frame"]
-
-    if room:
-        emit('imageConversionByClient', {
-            'buffer': image_data,
-            'timestamp': detection['timestamp'],
-            'boxes': detection['boxes'],
-            'scores': detection['scores'],
-            'classes': detection['classes']
-        }, room=room)
-
-        # logging.info("Emit new frame of timestamp {} to frontends at {}".format(detection['timestamp'], datetime.now().timestamp()))
-    else:
-        emit('imageConversionByClient', {
-            'buffer': image_data,
-            'timestamp': detection['timestamp'],
-            'boxes': detection['boxes'],
-            'scores': detection['scores'],
-            'classes': detection['classes']
-        }, broadcast=True)
-
-        # logging.info("Emit new frame of timestamp {} to frontends at {}".format(detection['timestamp'], datetime.now().timestamp()))
 
 
-@socketio.on('connect', namespace='/test')
+
+@socketio.on('connect')
 def connect():
     logging.debug('Client connected {}'.format(request.sid))
+    @socketio.on('new_frame_event')
+    def send_new_frame(message):
+        # global fake_detection
+        # Message interface includes three keys: frame, detection, room.
+        session['receive_count'] = session.get('receive_count', 0) + 1
+        room = message['room']
+
+        detection = message['detection']
+        # detection = fake_detection
+
+        frame_key = message['frame']
+        frame_dict = load_frame_from_redis(red, frame_key)
+        image_data = frame_dict["frame"]
+
+        if room:
+            emit('imageConversionByClient', {
+                'buffer': image_data,
+                'timestamp': detection['timestamp'],
+                'boxes': detection['boxes'],
+                'scores': detection['scores'],
+                'classes': detection['classes']
+            }, room=room)
+
+            # logging.info("Emit new frame of timestamp {} to frontends at {}".format(detection['timestamp'], datetime.now().timestamp()))
+        else:
+            emit('imageConversionByClient', {
+                'buffer': image_data,
+                'timestamp': detection['timestamp'],
+                'boxes': detection['boxes'],
+                'scores': detection['scores'],
+                'classes': detection['classes']
+            }, broadcast=True)
+
+            # logging.info("Emit new frame of timestamp {} to frontends at {}".format(detection['timestamp'], datetime.now().timestamp()))
 
 
-@socketio.on('disconnect', namespace='/test')
-def disconnect():
-    logging.debug('Client disconnected {}'.format(request.sid))
+    @socketio.on('disconnect')
+    def disconnect():
+        logging.debug('Client disconnected {}'.format(request.sid))

@@ -62,7 +62,7 @@ def check_connect():
     if not _is_rtsp_daemon_running():
         try:
             my_env = os.environ.copy()
-            my_env['PYTHONPATH'] ="/home/bigdata/Documents/do_an/backend/"
+            my_env['PYTHONPATH'] ="/home/ducdv10/Documents/do_an/backend/"
             protocol_id = params["protocol_id"]
             if protocol_id == 1:  # RTSP/TCP
                 link = _form_rtsp_link(params)

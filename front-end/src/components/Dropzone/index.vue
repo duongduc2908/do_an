@@ -7,6 +7,7 @@
 <script>
 import Dropzone from 'dropzone'
 import 'dropzone/dist/dropzone.css'
+import { getToken } from '@/utils/auth'
 // import { getToken } from 'api/qiniu';
 
 Dropzone.autoDiscover = false
@@ -68,7 +69,10 @@ export default {
     couldPaste: {
       type: Boolean,
       default: false
-    }
+    },
+    Headers:{
+      "Authorization ":"Bearer "+getToken()
+    },
   },
   data() {
     return {
@@ -100,8 +104,9 @@ export default {
       addRemoveLinks: this.showRemoveLink,
       acceptedFiles: this.acceptedFiles,
       autoProcessQueue: this.autoProcessQueue,
+      headers:{"Authorization":'Bearer ' + getToken()},
       dictDefaultMessage: '<i style="margin-top: 3em;display: inline-block" class="material-icons">' + this.defaultMsg + '</i><br>Drop files here to upload',
-      dictMaxFilesExceeded: '只能一个图',
+      dictMaxFilesExceeded: 'Chon 1 anh',
       previewTemplate: '<div class="dz-preview dz-file-preview">  <div class="dz-image" style="width:' + this.thumbnailWidth + 'px;height:' + this.thumbnailHeight + 'px" ><img style="width:' + this.thumbnailWidth + 'px;height:' + this.thumbnailHeight + 'px" data-dz-thumbnail /></div>  <div class="dz-details"><div class="dz-size"><span data-dz-size></span></div> <div class="dz-progress"><span class="dz-upload" data-dz-uploadprogress></span></div>  <div class="dz-error-message"><span data-dz-errormessage></span></div>  <div class="dz-success-mark"> <i class="material-icons">done</i> </div>  <div class="dz-error-mark"><i class="material-icons">error</i></div></div>',
       init() {
         const val = vm.defaultImg
@@ -155,7 +160,9 @@ export default {
       vm.$emit('dropzone-fileAdded', file)
     })
     this.dropzone.on('removedfile', file => {
+      this.$store.dispatch('upload_file/remove_img', file.name)
       vm.$emit('dropzone-removedFile', file)
+      
     })
     this.dropzone.on('error', (file, error, xhr) => {
       vm.$emit('dropzone-error', file, error, xhr)

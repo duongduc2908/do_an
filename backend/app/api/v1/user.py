@@ -255,7 +255,30 @@ def get_by_id():
     users = client.db.user.find_one({'_id': user_id})
     if not users:
         return send_error(message="Không tìm thấy bản ghi")
+    if users['group_role_id'] == '1':
+        role = 'admin'
+    else:
+        role = 'editor'
     data = {
-        'results': users
+        'results': users,
+        "role": [role]
     }
-    return send_result(data=data)
+    return send_result(data)
+
+
+@api.route('/get_info', methods=['GET'])
+@jwt_required
+def get_info():
+    user_curr_id = get_jwt_identity()
+    users = client.db.user.find_one({'_id': user_curr_id})
+    if not users:
+        return send_error(message="Không tìm thấy bản ghi")
+    if users['group_role_id'] == '1':
+        role = 'admin'
+    else:
+        role = 'editor'
+    data = {
+        'results': users,
+        "role": [role]
+    }
+    return send_result(data)

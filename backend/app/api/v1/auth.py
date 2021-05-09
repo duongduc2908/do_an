@@ -42,11 +42,9 @@ def login():
     if not check_password_hash(user['password'], password):
         return send_error(message='Bạn đã nhập sai mật khẩu vui lòng nhập lại')
     if user['group_role_id'] == '1':
-        role = 'is_admin'
-    elif user['group_role_id'] == '2':
-        role = 'is_phuong'
+        role = 'admin'
     else:
-        role = 'is_benh_vien'
+        role = 'editor'
     access_token = create_access_token(identity=user['_id'], expires_delta=ACCESS_EXPIRES)
     refresh_token = create_refresh_token(identity=user['_id'], expires_delta=REFRESH_EXPIRES)
     access_jti = get_jti(encoded_token=access_token)
@@ -62,7 +60,7 @@ def login():
 
     client.db.token.insert_one(user_token)
     return send_result(data={'access_token': access_token, 'refresh_token': refresh_token,
-                             'email': user['email'], 'full_name': user['full_name'], 'role': role
+                             'email': user['email'], 'full_name': user['full_name'], 'role': [role],'_id':user['_id']
                              }, message='Đăng nhập thành công')
 
 

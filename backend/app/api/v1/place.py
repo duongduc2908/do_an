@@ -179,37 +179,37 @@ def delete():
     if not claims['is_admin']:
         return send_error(message="Bạn không đủ quyền để thực hiện thao tác này")
     place_id = request.args.get('place_id')
-    camera_id = request.args.get('camera_id')
+    camera_id = ""#request.args.get('camera_id')
     try:
         place = client.db.place.find_one({"_id": place_id})
         if place is not None:
-            temp = 1
-            for camera in place["cameras"]:
-                if camera["camera_id"] == camera_id:
-                    place["cameras"].remove(camera)
-                    temp = 0
-                    # Xoa file
-                    try:
-                        list_file = listdir(PATH_IMAGE_CAMERA)
-                        for i in list_file:
-                            if safe_str_cmp(camera["name_image"], i):
-                                tmp = PATH_IMAGE_CAMERA + camera["name_image"]
-                                os.remove(tmp)
-                    except Exception as ex:
-                        return send_error(message="Xóa tệp không thành công")
-                    notif = notification(
-                        content=claims["full_name"] + " đã xóa camera " + camera["name"] + place["name"],
-                        user_id=user_curr_id, type=DELETE)
-                    client.db.history.insert_one(notif)
-            if temp == 1:
-                return send_error(message="Không tìm thấy  ")
+            # temp = 1
+            # for camera in place["cameras"]:
+                # if camera["camera_id"] == camera_id:
+                #     place["cameras"].remove(camera)
+                #     temp = 0
+                #     # Xoa file
+                #     try:
+                #         list_file = listdir(PATH_IMAGE_CAMERA)
+                #         for i in list_file:
+                #             if safe_str_cmp(camera["name_image"], i):
+                #                 tmp = PATH_IMAGE_CAMERA + camera["name_image"]
+                #                 os.remove(tmp)
+                #     except Exception as ex:
+                #         return send_error(message="Xóa tệp không thành công")
+            notif = notification(
+            content=claims["full_name"] + " đã xóa camera " + place["name"],
+            user_id=user_curr_id, type=DELETE)
+            client.db.history.insert_one(notif)
+            # if temp == 1:
+            #     return send_error(message="Không tìm thấy  ")
         else:
             return send_error(message="Không tìm thấy địa chỉ ")
-        update_cameras = {
-            '$set': {
-                "cameras": place["cameras"]
-            }}
-        client.db.place.update_one({'_id': place_id}, update_cameras)
+        # update_cameras = {
+        #     '$set': {
+        #         "cameras": place["cameras"]
+        #     }}
+        client.db.place.delete_one({'_id': place_id})
 
     except Exception:
         return send_error(message="Lỗi xóa không thành công")

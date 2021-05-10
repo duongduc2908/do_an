@@ -1,7 +1,6 @@
 import { login, logout, getInfo } from '@/api/user'
 import { getToken, setToken, removeToken ,setUser} from '@/utils/auth'
 import router, { resetRouter } from '@/router'
-
 const state = {
   token: getToken(),
   name: '',
@@ -35,6 +34,7 @@ const mutations = {
 const actions = {
   // user login
   login({ commit }, userInfo) {
+    debugger
     const { username, password } = userInfo
     return new Promise((resolve, reject) => {
       login({ username: username.trim(), password: password }).then(response => {
@@ -49,6 +49,16 @@ const actions = {
         reject(error)
       })
     })
+  },
+  add_file({ commit }, files) {
+    debugger
+    return new Promise((resolve, reject) => {
+        // add_file({ files: files }).then(response => {
+        // const { data } = response
+        resolve()
+      }).catch(error => {
+        reject(error)
+      })
   },
 
   // get user info

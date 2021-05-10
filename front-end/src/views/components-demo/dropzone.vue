@@ -5,7 +5,7 @@
       Because my business has special needs, and has to upload images to qiniu, so instead of a third party, I chose encapsulate it by myself. It is very simple, you can see the detail code in @/components/Dropzone.
     </aside>
     <div class="editor-container">
-      <dropzone id="myVueDropzone" url="http://localhost:4321/api/v1/file/upload_train" @dropzone-removedFile="dropzoneR" @dropzone-success="dropzoneS" />
+      <dropzone id="myVueDropzone" url="http://localhost:4321/api/v1/file/upload_train/" @dropzone-removedFile="dropzoneR" @dropzone-success="dropzoneS" />
     </div>
   </div>
 </template>

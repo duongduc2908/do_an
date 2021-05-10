@@ -1,4 +1,4 @@
-import { remove_img } from '@/api/upload_file'
+import { remove_img,add_file } from '@/api/upload_file'
 
 
 const actions = {
@@ -12,8 +12,18 @@ const actions = {
       })
     })
   },
+  add_file({ commit }, files) {
+    return new Promise((resolve, reject) => {
+        add_file({ file: files }).then(response => {
+        resolve(response)
+      }).catch(error => {
+        reject(error)
+      })
+    })
+  },
 }
 
 export default {
+  namespaced: true,
   actions
 }

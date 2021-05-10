@@ -11,7 +11,7 @@ from flask_jwt_extended import (
     jwt_required,
     get_jwt_claims)
 
-api = Blueprint('files', __name__)
+api = Blueprint('file', __name__)
 
 
 @api.route('/file_camera', methods=['POST'])
@@ -99,3 +99,22 @@ def upload_image_camera():
         return send_result(data=data, message='Tải file thành công')
     except Exception as ex:
         return send_error(message='File chưa được upload')
+
+
+@api.route('/upload_train', methods=['POST'])
+@jwt_required
+def upload_train():
+    claims = get_jwt_claims()
+    if not claims['is_admin']:
+        return send_error(message="Bạn không đủ quyền để thực hiện thao tác này")
+
+    try:
+        # print(files)
+        file = request.files['file']
+    except Exception as e:
+        print(e)
+        return send_error(message='Không có file nào được chọn')
+    filename = datetime.datetime.now().strftime("%f")+file.filename
+    filename = secure_filename(filename)
+    file.save(os.path.join(PATH_IMAGE_CAMERA, filename))
+    return send_result(message='Tải file thành công')

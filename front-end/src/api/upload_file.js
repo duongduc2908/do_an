@@ -7,3 +7,13 @@ export function remove_img(img_path) {
     data: img_path
   })
 }
+export function add_file( files) {
+  debugger
+  let formData = new FormData();
+  formData.append('file', files.file);
+  return request({
+    url: 'file/upload_train',
+    method: 'post',
+    data: formData
+  })
+}

@@ -1,6 +1,7 @@
 <template>
   <div :id="id" :ref="id" :action="url" class="dropzone">
     <input type="file" name="file">
+    <button @click="saveFile">Luu</button>
   </div>
 </template>
 
@@ -8,7 +9,7 @@
 import Dropzone from 'dropzone'
 import 'dropzone/dist/dropzone.css'
 import { getToken } from '@/utils/auth'
-// import { getToken } from 'api/qiniu';
+import store from '@/store'
 
 Dropzone.autoDiscover = false
 
@@ -28,7 +29,7 @@ export default {
     },
     defaultMsg: {
       type: String,
-      default: '上传图片'
+      default: 'Them 1 anh'
     },
     acceptedFiles: {
       type: String,
@@ -82,6 +83,7 @@ export default {
   },
   watch: {
     defaultImg(val) {
+      debugger
       if (val.length === 0) {
         this.initOnce = false
         return
@@ -103,20 +105,26 @@ export default {
       dictRemoveFile: 'Remove',
       addRemoveLinks: this.showRemoveLink,
       acceptedFiles: this.acceptedFiles,
-      autoProcessQueue: this.autoProcessQueue,
+      autoProcessQueue: false,
+      autoDiscover:false,
       headers:{"Authorization":'Bearer ' + getToken()},
       dictDefaultMessage: '<i style="margin-top: 3em;display: inline-block" class="material-icons">' + this.defaultMsg + '</i><br>Drop files here to upload',
       dictMaxFilesExceeded: 'Chon 1 anh',
       previewTemplate: '<div class="dz-preview dz-file-preview">  <div class="dz-image" style="width:' + this.thumbnailWidth + 'px;height:' + this.thumbnailHeight + 'px" ><img style="width:' + this.thumbnailWidth + 'px;height:' + this.thumbnailHeight + 'px" data-dz-thumbnail /></div>  <div class="dz-details"><div class="dz-size"><span data-dz-size></span></div> <div class="dz-progress"><span class="dz-upload" data-dz-uploadprogress></span></div>  <div class="dz-error-message"><span data-dz-errormessage></span></div>  <div class="dz-success-mark"> <i class="material-icons">done</i> </div>  <div class="dz-error-mark"><i class="material-icons">error</i></div></div>',
       init() {
         const val = vm.defaultImg
+          debugger
         if (!val) return
+        if (val.length !== this.maxFiles) {
+          this.$message({ message: 'So luong file = 3', type: 'error' });
+          return;
+        } 
         if (Array.isArray(val)) {
           if (val.length === 0) return
           val.map((v, i) => {
             const mockFile = { name: 'name' + i, size: 12345, url: v }
-            this.options.addedfile.call(this, mockFile)
-            this.options.thumbnail.call(this, mockFile, v)
+            // this.options.addedfile.call(this, mockFile)
+            // this.options.thumbnail.call(this, mockFile, v)
             mockFile.previewElement.classList.add('dz-success')
             mockFile.previewElement.classList.add('dz-complete')
             vm.initOnce = false
@@ -124,27 +132,17 @@ export default {
           })
         } else {
           const mockFile = { name: 'name', size: 12345, url: val }
-          this.options.addedfile.call(this, mockFile)
-          this.options.thumbnail.call(this, mockFile, val)
+          // this.options.addedfile.call(this, mockFile)
+          // this.options.thumbnail.call(this, mockFile, val)
           mockFile.previewElement.classList.add('dz-success')
           mockFile.previewElement.classList.add('dz-complete')
           vm.initOnce = false
         }
       },
       accept: (file, done) => {
-        /* 七牛*/
-        // const token = this.$store.getters.token;
-        // getToken(token).then(response => {
-        //   file.token = response.data.qiniu_token;
-        //   file.key = response.data.qiniu_key;
-        //   file.url = response.data.qiniu_url;
-        //   done();
-        // })
         done()
       },
       sending: (file, xhr, formData) => {
-        // formData.append('token', file.token);
-        // formData.append('key', file.key);
         vm.initOnce = false
       }
     })
@@ -154,13 +152,15 @@ export default {
     }
 
     this.dropzone.on('success', file => {
+      debugger
       vm.$emit('dropzone-success', file, vm.dropzone.element)
     })
     this.dropzone.on('addedfile', file => {
+      debugger
       vm.$emit('dropzone-fileAdded', file)
     })
     this.dropzone.on('removedfile', file => {
-      this.$store.dispatch('upload_file/remove_img', file.name)
+      store.dispatch('upload_file/remove_img', file.name)
       vm.$emit('dropzone-removedFile', file)
       
     })
@@ -176,6 +176,15 @@ export default {
     this.dropzone.destroy()
   },
   methods: {
+    saveFile(){
+      const element = document.getElementById(this.id)
+      const vm = this
+      store.dispatch('upload_file/add_file',this.dropzone.files[0]).then(res=>{
+        if(res.code == 200){
+          this.$message({ message: 'Upload success', type: 'success' });
+        }
+      })
+    },
     removeAllFiles() {
       this.dropzone.removeAllFiles(true)
     },
@@ -193,22 +202,24 @@ export default {
       if (Array.isArray(val)) {
         val.map((v, i) => {
           const mockFile = { name: 'name' + i, size: 12345, url: v }
-          this.dropzone.options.addedfile.call(this.dropzone, mockFile)
-          this.dropzone.options.thumbnail.call(this.dropzone, mockFile, v)
+          // this.dropzone.options.addedfile.call(this.dropzone, mockFile)
+          // this.dropzone.options.thumbnail.call(this.dropzone, mockFile, v)
           mockFile.previewElement.classList.add('dz-success')
           mockFile.previewElement.classList.add('dz-complete')
           return true
         })
       } else {
         const mockFile = { name: 'name', size: 12345, url: val }
-        this.dropzone.options.addedfile.call(this.dropzone, mockFile)
-        this.dropzone.options.thumbnail.call(this.dropzone, mockFile, val)
+        // this.dropzone.options.addedfile.call(this.dropzone, mockFile)
+        // this.dropzone.options.thumbnail.call(this.dropzone, mockFile, val)
         mockFile.previewElement.classList.add('dz-success')
         mockFile.previewElement.classList.add('dz-complete')
       }
     }
 
-  }
+  },
+  computed: {
+  },
 }
 </script>
 

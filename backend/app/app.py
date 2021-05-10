@@ -108,7 +108,6 @@ def register_blueprints(app):
     app.register_blueprint(api_v1.upload_file.api, url_prefix='/api/v1/file')
     app.register_blueprint(api_stream.api_camera.api, url_prefix='/api/stream/connection_api')
     app.register_blueprint(api_v1.import_json.api, url_prefix='/api/v1/import_json')
-
     app.register_blueprint(api_v1.department.api, url_prefix='/api/v1/department')
     app.register_blueprint(api_v1.employee.api, url_prefix='/api/v1/employee')
 

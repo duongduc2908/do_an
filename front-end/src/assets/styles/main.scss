@@ -1,0 +1,73 @@
+html,body,span,a{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 14px;
+}
+
+.flex{
+  display: flex;
+}
+
+.h-full{
+  height: 100%;
+}
+
+.w-full{
+  width: 100%;
+}
+
+.p-24{
+  padding: 24px;
+}
+
+.p-16{
+  padding: 16px;
+}
+
+
+.justify-between{
+  justify-content: space-between;
+}
+
+.align-items{
+  align-items: center;
+}
+
+.m-b-24{
+  margin-bottom: 24px;
+}
+
+.m-b-16{
+  margin-right: 16px;
+}
+
+.m-4{
+  margin: 4px
+}
+.m-8{
+  margin: 8px
+}
+
+.f-right{
+  float: right;
+}
+
+.f-left{
+  float: left;
+}
+
+.boder-radius{
+  border-radius: 8px;
+}
+
+.fit-content{
+  width: fit-content;
+}
+
+.flex-wrap{
+  flex-wrap: wrap;
+}
+
+.cursor{
+  cursor: pointer;
+}

@@ -35,6 +35,12 @@ const tableRouter = {
       component: () => import('@/views/table/complex-table'),
       name: 'ComplexTable',
       meta: { title: 'Complex Table' }
+    },
+    {
+      path: 'camera',
+      component: () => import('@/views/table/camera'),
+      name: 'PopupCamera',
+      meta: { title: 'Camera' }
     }
   ]
 }

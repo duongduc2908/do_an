@@ -139,7 +139,7 @@ def send_frame(client, userdata, msg):
 
     detection = AI.extrapolate(frame_timestamp)
     try:
-        sio.emit('new_frame_event', {'frame': cf.NEW_FRAME_REDIS_KEY, 'detection': detection, 'room': ""})
+        sio.emit('new_frame_event', {'frame': cf.NEW_FRAME_REDIS_KEY, 'detection': detection})
         LAST_SEND = datetime.now().timestamp()
     except Exception as e:
         pass
